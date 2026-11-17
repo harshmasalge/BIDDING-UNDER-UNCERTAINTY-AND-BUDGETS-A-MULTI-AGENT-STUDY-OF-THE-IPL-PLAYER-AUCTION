@@ -1,0 +1,31 @@
+% Compact re-implementation of the "arXiv & Prime AI style" template (kourgeorge/arxiv-style, MIT licence)
+% so the report compiles offline; on Overleaf the original arxiv.sty can be used unchanged.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{arxiv}[2026/11/17 arXiv-style template]
+\RequirePackage{times}
+\RequirePackage[margin=1in,headheight=14pt]{geometry}
+\RequirePackage{fancyhdr}
+\RequirePackage{lipsum}
+\newcommand{\headeright}{A Preprint}
+\newcommand{\undertitle}{A Preprint}
+\newcommand{\shorttitle}{\@title}
+\setlength{\parindent}{0pt}\setlength{\parskip}{5.5pt}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}\cfoot{\thepage}}
+\pagestyle{fancy}\fancyhf{}\fancyhead[L]{\scshape\small\shorttitle}\fancyhead[R]{\scshape\small\headeright}\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\section}{\@startsection{section}{1}{\z@}{-1.6ex plus -0.5ex minus -.2ex}{0.8ex plus .2ex}{\large\bf\raggedright}}
+\renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}{-1.2ex plus -0.5ex minus -.2ex}{0.5ex plus .2ex}{\normalsize\bf\raggedright}}
+\renewcommand{\paragraph}{\@startsection{paragraph}{4}{\z@}{0.8ex plus 0.3ex minus .2ex}{-1em}{\normalsize\bf}}
+\def\And{\end{tabular}\hfil\linebreak[0]\hfil\begin{tabular}[t]{c}\ignorespaces}
+\def\AND{\end{tabular}\hfil\linebreak[4]\hfil\begin{tabular}[t]{c}\ignorespaces}
+\renewcommand{\maketitle}{\par\begingroup
+  \thispagestyle{plain}
+  \vbox{\hsize\textwidth\linewidth\hsize\vskip 0.1in\centering
+  {\LARGE\scshape \@title\par}\vskip 0.06in
+  {\small\scshape \undertitle\par}\vskip 0.2in
+  \def\thanks##1{\footnote{##1}}
+  \begin{tabular}[t]{c}\@author\end{tabular}\par
+  \vskip 0.15in}\endgroup\setcounter{footnote}{0}}
+\renewenvironment{abstract}{\centerline{\large\scshape Abstract}\vspace{-0.4ex}\begin{quote}}{\par\end{quote}\vskip 0.5ex}
+\newcommand{\keywords}[1]{{\def\and{\unskip\enspace{\textperiodcentered}\enspace\ignorespaces}\textbf{\textit{Keywords}}\ \ #1\par}}
+\endinput

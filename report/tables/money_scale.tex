@@ -1,0 +1,7 @@
+\begin{tabular}{@{}lrrrrrr@{}}\toprule
+& & train & \multicolumn{4}{c}{test: 2025 sold players ($n$=182)}\\\cmidrule(l){4-7}
+Money scale & $n$ & $R^2$ & $R^2$ & Spearman & MAE & bias\\\midrule
+Fit on 2022 (primary) & 204 & 0.57 & 0.53 & 0.76 & 0.72 & -0.27\\
+Fit on 2018--2024 (pooled) & 704 & 0.41 & 0.54 & 0.77 & 0.75 & -0.29\\
+Fit on 2025 (in-sample, old check) & 182 & 0.61 & 0.61 & 0.78 & 0.65 & +0.00\\
+\bottomrule\end{tabular}

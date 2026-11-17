@@ -1,0 +1,13 @@
+heterogeneity {'mean_min_ratio': 0.217, 'mean_max_ratio': 0.759, 'mean_spread': 0.543, 'cv_across_teams': 0.408, 'snapshot_fraction': 0.5}
+CSK {'xi_utility_pace': 52.47, 'xi_utility_need': 60.63, 'gain': 8.16, 'gain_se': 1.8, 'common_utility_pace': 83.7, 'common_utility_need': 97.05}
+DC {'xi_utility_pace': 77.99, 'xi_utility_need': 100.3, 'gain': 22.31, 'gain_se': 3.29, 'common_utility_pace': 114.39, 'common_utility_need': 143.6}
+GT {'xi_utility_pace': 71.7, 'xi_utility_need': 93.44, 'gain': 21.74, 'gain_se': 3.41, 'common_utility_pace': 110.84, 'common_utility_need': 132.56}
+KKR {'xi_utility_pace': 40.22, 'xi_utility_need': 47.63, 'gain': 7.41, 'gain_se': 1.61, 'common_utility_pace': 77.47, 'common_utility_need': 88.03}
+LSG {'xi_utility_pace': 77.07, 'xi_utility_need': 91.62, 'gain': 14.55, 'gain_se': 3.04, 'common_utility_pace': 114.25, 'common_utility_need': 131.71}
+MI {'xi_utility_pace': 53.51, 'xi_utility_need': 61.82, 'gain': 8.31, 'gain_se': 1.73, 'common_utility_pace': 83.28, 'common_utility_need': 97.34}
+PBKS {'xi_utility_pace': 106.55, 'xi_utility_need': 148.67, 'gain': 42.12, 'gain_se': 4.84, 'common_utility_pace': 148.23, 'common_utility_need': 192.6}
+RR {'xi_utility_pace': 43.64, 'xi_utility_need': 51.76, 'gain': 8.12, 'gain_se': 2.12, 'common_utility_pace': 72.87, 'common_utility_need': 86.79}
+RCB {'xi_utility_pace': 92.23, 'xi_utility_need': 124.67, 'gain': 32.44, 'gain_se': 3.19, 'common_utility_pace': 130.35, 'common_utility_need': 161.96}
+SRH {'xi_utility_pace': 40.4, 'xi_utility_need': 51.41, 'gain': 11.02, 'gain_se': 1.85, 'common_utility_pace': 76.44, 'common_utility_need': 87.85}
+all_pace 655.77189465617
+all_need 724.4680470338468

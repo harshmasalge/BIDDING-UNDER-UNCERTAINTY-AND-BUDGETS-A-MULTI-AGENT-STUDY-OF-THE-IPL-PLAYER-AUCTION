@@ -1,0 +1,11 @@
+\begin{tabular}{@{}lrrrrrr@{}}\toprule
+Focal agent & RR & DC & PBKS & DC $\times0.5$ & DC $\times2$ & $U/\mathrm{OPT}$\\\midrule
+Naive $\hat v$ & 43.8 & 82.7 & 122.0 & 46.8 & 115.5 & 0.26\\
+Shade 0.85 & 45.6 & 84.8 & 127.8 & 47.7 & 121.0 & 0.27\\
+Eq.~(5) & 48.0 & 90.8 & 136.9 & 50.5 & 130.4 & 0.30\\
+Pacing $\lambda^*_i$ & 76.4 & 113.1 & 143.9 & 86.6 & 115.1 & 0.36\\
+Dual pacing (9) & 48.8 & 93.8 & 143.1 & 50.9 & 134.8 & 0.30\\
+Q-learning & 42.2 & 88.7 & 134.5 & 55.9 & 137.5 & 0.29\\
+DP (6)--(7) & 100.6 & 149.9 & 197.0 & 207.0 & \textbf{192.1} & 0.59\\
+DP + Eq.~(5) & \textbf{120.3} & \textbf{153.9} & \textbf{203.9} & \textbf{216.4} & 186.7 & 0.63\\
+\bottomrule\end{tabular}

@@ -1,0 +1,705 @@
+name,year,price,team,role,overseas,capped,cs,matches,balls_bat,balls_bowl,impact,impact_var,k,has_record,purse,overseas_missing
+Kedar Jadhav,2018,7.8,CSK,AR,0.0,,KM Jadhav,28.0,358.0,0.0,0.40071462139943753,0.9394586286511261,kedar jadhav,1,80,1
+Dwayne Bravo,2018,6.4,CSK,AR,1.0,,DJ Bravo,32.0,230.0,650.0,0.32110121403408187,1.995663343794901,dwayne bravo,1,80,0
+Karn Sharma,2018,5.0,CSK,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,karn sharma,0,80,0
+Shane Watson,2018,4.0,CSK,AR,0.0,,SR Watson,34.0,469.0,674.0,-2.0581600071950334,2.4776804149185683,shane watson,1,80,1
+Shardul Narendra Thakur,2018,2.6,CSK,BOWL,0.0,,SN Thakur,13.0,9.0,247.0,-0.36836126743526587,1.927422381049825,shardul narendra thakur,1,80,1
+Ambati Rayudu,2018,2.2,CSK,WK,0.0,,AT Rayudu,31.0,549.0,0.0,-0.13176678754693988,1.4100836693620076,ambati rayudu,1,80,0
+Murali Vijay,2018,2.0,CSK,BAT,0.0,,M Vijay,25.0,592.0,30.0,-0.7402588954638389,2.3126531060004747,murali vijay,1,80,1
+Harbhajan Singh,2018,2.0,CSK,BOWL,0.0,,Harbhajan Singh,40.0,173.0,882.0,1.176141007143013,1.7470090172936843,harbhajan singh,1,80,1
+Faf Du Plessis,2018,1.6,CSK,BAT,1.0,,F du Plessis,22.0,473.0,0.0,-0.016456687603234453,2.133100112749025,faf du plessis,1,80,0
+Mark Wood,2018,1.5,CSK,BOWL,1.0,,MA Wood,0.0,0.0,0.0,0.0,2.548144929839141,mark wood,0,80,0
+Sam Billings,2018,1.0,CSK,WK,1.0,,SW Billings,10.0,168.0,0.0,-0.015478496598270412,1.682814376840308,sam billings,1,80,0
+Imran Tahir,2018,1.0,CSK,BOWL,0.0,,Imran Tahir,26.0,15.0,591.0,0.8935601958688838,2.0750964406284673,imran tahir,1,80,1
+Deepak Chahar,2018,0.8,CSK,AR,0.0,,DL Chahar,5.0,6.0,72.0,-0.6240467249132224,0.9617864642656527,deepak chahar,1,80,0
+Mitchell Santner,2018,0.5,CSK,AR,1.0,,MJ Santner,0.0,0.0,0.0,0.0,2.548144929839141,mitchell santner,0,80,0
+Lungisani Ngidi,2018,0.5,CSK,BOWL,1.0,,L Ngidi,0.0,0.0,0.0,0.0,2.548144929839141,lungisani ngidi,0,80,0
+Asif K M,2018,0.4,CSK,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,asif k m,0,80,1
+N Jagadeesan,2018,0.2,CSK,WK,0.0,,N Jagadeesan,0.0,0.0,0.0,0.0,2.548144929839141,n jagadeesan,0,80,0
+Kanishk Seth,2018,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,kanishk seth,0,80,1
+Monu Singh,2018,0.2,CSK,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,monu singh,0,80,1
+Dhruv Shorey,2018,0.2,CSK,AR,0.0,,DR Shorey,0.0,0.0,0.0,0.0,2.548144929839141,dhruv shorey,0,80,1
+Kshitiz Sharma,2018,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,kshitiz sharma,0,80,1
+Chaitanya Bishnoi,2018,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,chaitanya bishnoi,0,80,1
+Glenn Maxwell,2018,9.0,DC,AR,1.0,,GJ Maxwell,36.0,415.0,228.0,0.661749089162188,1.0170276977906512,glenn maxwell,1,80,0
+Kagiso Rabada,2018,4.2,DC,BOWL,1.0,,K Rabada,6.0,64.0,128.0,-0.9026987365477772,2.741696925889466,kagiso rabada,1,80,0
+Amit Mishra,2018,4.0,DC,BOWL,0.0,,A Mishra,40.0,78.0,750.0,0.07834915464973796,1.3310575996460765,amit mishra,1,80,0
+Shahbaz Nadeem,2018,3.2,DC,BOWL,0.0,,S Nadeem,14.0,21.0,239.0,0.46785280446735056,1.640689272563132,shahbaz nadeem,1,80,0
+Vijay Shankar,2018,3.2,DC,AR,0.0,,V Shankar,4.0,75.0,0.0,0.4658607327586436,1.4654885254878032,vijay shankar,1,80,0
+Rahul Tewatia,2018,3.0,DC,AR,0.0,,R Tewatia,4.0,11.0,72.0,0.6399754594237382,1.2831337143661696,rahul tewatia,1,80,0
+Mohammad Shami,2018,3.0,DC,BOWL,0.0,,Mohammed Shami,16.0,28.0,307.0,-2.301532871472373,1.9332554068555012,mohammad shami,1,80,0
+Gautam Gambhir,2018,2.8,DC,BAT,0.0,,G Gambhir,44.0,1078.0,0.0,-0.22899958265268328,1.7314144483615614,gautam gambhir,1,80,1
+Trent Boult,2018,2.2,DC,BOWL,1.0,,TA Boult,14.0,8.0,335.0,-1.084822540161476,2.7085403451601873,trent boult,1,80,0
+Colin Munro,2018,1.9,DC,AR,0.0,,C Munro,4.0,30.0,12.0,-0.03465320445224849,0.31026838770600823,colin munro,1,80,1
+Daniel Christian,2018,1.5,DC,AR,0.0,,DT Christian,13.0,49.0,240.0,0.8696553070592795,1.967510961745819,daniel christian,1,80,1
+Jason Roy,2018,1.5,DC,BAT,1.0,,JJ Roy,3.0,40.0,0.0,0.2339956350357439,0.6307412781322714,jason roy,1,80,0
+Naman Ojha,2018,1.4,DC,WK,0.0,,NV Ojha,29.0,324.0,0.0,-1.7389746652404272,0.7632451183127804,naman ojha,1,80,1
+Prithvi Shaw,2018,1.2,DC,BAT,0.0,,PP Shaw,0.0,0.0,0.0,0.0,2.548144929839141,prithvi shaw,0,80,0
+Gurkeerat Singh Mann,2018,0.75,DC,AR,0.0,,Gurkeerat Singh,11.0,125.0,78.0,-0.4648174643719752,1.249476156167156,gurkeerat singh mann,1,80,1
+Avesh Khan,2018,0.7,DC,BOWL,0.0,,Avesh Khan,1.0,0.0,24.0,0.17739284478054626,0.48436143378143726,avesh khan,1,80,0
+Abhishek Sharma,2018,0.55,DC,AR,0.0,,Abhishek Sharma,0.0,0.0,0.0,0.0,2.548144929839141,abhishek sharma,0,80,0
+Jayant Yadav,2018,0.5,DC,AR,0.0,,J Yadav,10.0,10.0,180.0,0.844716120505379,1.7673245102308595,jayant yadav,1,80,0
+Harshal Patel,2018,0.2,DC,AR,0.0,,HV Patel,21.0,12.0,371.0,0.1931435111123566,1.5804752404913878,harshal patel,1,80,0
+Manjot Kalra,2018,0.2,DC,BAT,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,manjot kalra,0,80,1
+Sandeep Lamichhane,2018,0.2,DC,BOWL,0.0,,S Lamichhane,0.0,0.0,0.0,0.0,2.548144929839141,sandeep lamichhane,0,80,1
+Sayan Ghosh,2018,0.2,DC,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,sayan ghosh,0,80,1
+KL Rahul,2018,11.0,PBKS,BAT,0.0,,KL Rahul,20.0,397.0,0.0,1.1655182431509519,1.9766569225058062,kl rahul,1,80,0
+Ravichandran Ashwin,2018,7.6,PBKS,AR,0.0,,R Ashwin,27.0,70.0,498.0,2.469143172178225,1.6027704479327136,ravichandran ashwin,1,80,1
+Andrew Tye,2018,7.2,PBKS,BOWL,0.0,,AJ Tye,6.0,30.0,126.0,2.235580849105936,2.182867858615475,andrew tye,1,80,1
+Aaron Finch,2018,6.2,PBKS,BAT,0.0,,AJ Finch,28.0,512.0,0.0,1.0783356155156656,1.5447795958061747,aaron finch,1,80,1
+Marcus Stoinis,2018,6.2,PBKS,AR,1.0,,MP Stoinis,12.0,132.0,201.0,-0.8355915327298014,2.4284910788993255,marcus stoinis,1,80,0
+Karun Nair,2018,5.6,PBKS,BAT,0.0,,KK Nair,37.0,668.0,0.0,-1.0241551983836341,1.317651404227147,karun nair,1,80,0
+Mujeeb Zadran,2018,4.0,PBKS,BOWL,0.0,,Mujeeb Ur Rahman,0.0,0.0,0.0,0.0,2.548144929839141,mujeeb zadran,0,80,1
+Ankit Singh Rajpoot,2018,3.0,PBKS,BOWL,0.0,,AS Rajpoot,9.0,7.0,150.0,0.033205697751557815,1.5316798148514121,ankit singh rajpoot,1,80,0
+David Miller,2018,3.0,PBKS,BAT,1.0,,DA Miller,30.0,477.0,0.0,-0.4461437849402167,1.2383878672269037,david miller,1,80,0
+Mohit Sharma,2018,2.4,PBKS,BOWL,0.0,,MM Sharma,44.0,94.0,907.0,-1.2985684020752903,1.423204920909614,mohit sharma,1,80,0
+Barinder Singh Sran,2018,2.2,PBKS,BOWL,0.0,,BB Sran,16.0,4.0,327.0,-0.8656513898741017,2.0899658738185765,barinder singh sran,1,80,1
+Yuvraj Singh,2018,2.0,PBKS,AR,0.0,,Yuvraj Singh,34.0,566.0,103.0,-0.575466942493599,1.3242581094150252,yuvraj singh,1,80,1
+Christopher Gayle,2018,2.0,PBKS,BAT,0.0,,CH Gayle,33.0,646.0,72.0,1.4730366179730672,1.6048014658471559,christopher gayle,1,80,1
+Ben Dwarshuis,2018,1.4,PBKS,BOWL,1.0,,BJ Dwarshuis,0.0,0.0,0.0,0.0,2.548144929839141,ben dwarshuis,0,80,0
+Akshdeep Nath,2018,1.0,PBKS,AR,0.0,,AD Nath,4.0,28.0,0.0,-0.3326288461572261,0.23610705303363147,akshdeep nath,1,80,1
+Manoj Tiwary,2018,1.0,PBKS,BAT,0.0,,MK Tiwary,15.0,292.0,0.0,0.45379123374809044,2.07015887571732,manoj tiwary,1,80,1
+Mayank Agarwal,2018,1.0,PBKS,BAT,0.0,,MA Agarwal,16.0,229.0,0.0,-1.207659678865366,1.286032609389605,mayank agarwal,1,80,0
+Manzoor Dar,2018,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,manzoor dar,0,80,1
+Pardeep Sahu,2018,0.2,PBKS,BOWL,0.0,,P Sahu,5.0,13.0,105.0,-0.26065041215648754,1.9062487090885065,pardeep sahu,1,80,1
+Mayank Dagar,2018,0.2,PBKS,AR,0.0,,Mayank Dagar,0.0,0.0,0.0,0.0,2.548144929839141,mayank dagar,0,80,0
+Chris Lynn,2018,9.6,KKR,BAT,0.0,,CA Lynn,9.0,185.0,0.0,3.0318949851630426,2.3060748283367833,chris lynn,1,80,1
+Mitchell Starc,2018,9.4,KKR,BOWL,1.0,,MA Starc,12.0,14.0,258.0,3.0683247686570905,2.353722412646128,mitchell starc,1,80,0
+Dinesh Karthik,2018,7.4,KKR,WK,0.0,,KD Karthik,39.0,642.0,0.0,-0.02905199256280966,1.1352779957014534,dinesh karthik,1,80,0
+Robin Uthappa,2018,6.4,KKR,WK,0.0,,RV Uthappa,41.0,801.0,0.0,1.715739795652681,1.3719428398006053,robin uthappa,1,80,0
+Kuldeep Singh Yadav,2018,5.8,KKR,BOWL,0.0,,Kuldeep Yadav,15.0,22.0,318.0,0.30142549189672363,2.255515402243747,kuldeep singh yadav,1,80,1
+Piyush Chawla,2018,4.2,KKR,BOWL,0.0,,PP Chawla,31.0,79.0,542.0,0.4342645630563333,1.4081982650409646,piyush chawla,1,80,0
+Nitish Rana,2018,3.4,KKR,AR,0.0,,N Rana,16.0,339.0,6.0,0.1654288651857126,2.3134636728624804,nitish rana,1,80,0
+Kamlesh Nagarkoti,2018,3.2,KKR,AR,0.0,,KL Nagarkoti,0.0,0.0,0.0,0.0,2.548144929839141,kamlesh nagarkoti,0,80,0
+Shivam Mavi,2018,3.0,KKR,AR,0.0,,Shivam Mavi,0.0,0.0,0.0,0.0,2.548144929839141,shivam mavi,0,80,0
+Mitchell Johnson,2018,2.0,KKR,BOWL,0.0,,MG Johnson,17.0,67.0,401.0,-1.4569104492496399,2.686984300545374,mitchell johnson,1,80,1
+Shubman Gill,2018,1.8,KKR,BAT,0.0,,Shubman Gill,0.0,0.0,0.0,0.0,2.548144929839141,shubman gill,0,80,1
+Ranganath Vinay Kumar,2018,1.0,KKR,BOWL,0.0,,R Vinay Kumar,17.0,14.0,333.0,-0.6548728999542758,1.9447158446494712,ranganath vinay kumar,1,80,1
+Rinku Singh,2018,0.8,KKR,BAT,0.0,,RK Singh,0.0,0.0,0.0,0.0,2.548144929839141,rinku singh,0,80,0
+Cameron Delport,2018,0.3,KKR,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,cameron delport,0,80,1
+Javon Searless,2018,0.3,KKR,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,javon searless,0,80,1
+Apoorv Vijay Wankhade,2018,0.2,KKR,BAT,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,apoorv vijay wankhade,0,80,1
+Ishank Jaggi,2018,0.2,KKR,BAT,0.0,,IR Jaggi,2.0,39.0,0.0,-0.22265886084272613,0.8661854833226728,ishank jaggi,1,80,1
+Krunal Pandya,2018,8.8,MI,AR,0.0,,KH Pandya,25.0,303.0,427.0,3.0261538215103787,2.321381432734903,krunal pandya,1,80,0
+Ishan Kishan,2018,6.2,MI,WK,0.0,,Ishan Kishan,15.0,247.0,0.0,-0.34090585730817197,1.6093472008383116,ishan kishan,1,80,0
+Kieron Pollard,2018,5.4,MI,AR,0.0,,KA Pollard,43.0,676.0,123.0,1.5691376122523015,1.0859402196274566,kieron pollard,1,80,1
+Pat Cummins,2018,5.4,MI,BOWL,1.0,,PJ Cummins,15.0,55.0,337.0,-0.2825922117201616,2.5606233731784007,pat cummins,1,80,0
+Evin Lewis,2018,3.8,MI,BAT,1.0,,E Lewis,0.0,0.0,0.0,0.0,2.548144929839141,evin lewis,0,80,0
+Suryakumar Yadav,2018,3.2,MI,BAT,0.0,,SA Yadav,31.0,344.0,0.0,-0.44724611114438145,0.7374487526196478,suryakumar yadav,1,80,1
+Ben Cutting,2018,2.2,MI,AR,0.0,,BCJ Cutting,8.0,60.0,143.0,0.322969819070935,2.073246619349635,ben cutting,1,80,1
+Mustafizur Rahman,2018,2.2,MI,BOWL,1.0,,Mustafizur Rahman,17.0,0.0,382.0,1.877705148006475,2.3686291063612175,mustafizur rahman,1,80,0
+Rahul Chahar,2018,1.9,MI,BOWL,0.0,,RD Chahar,2.0,2.0,42.0,0.01538839881382708,0.9033703432560796,rahul chahar,1,80,0
+Pradeep Sangwan,2018,1.5,MI,BOWL,0.0,,PJ Sangwan,7.0,4.0,132.0,-1.6360792776740034,1.7739084721530136,pradeep sangwan,1,80,0
+Jason Behrendorff,2018,1.5,MI,BOWL,1.0,,JP Behrendorff,0.0,0.0,0.0,0.0,2.548144929839141,jason behrendorff,0,80,0
+Jean-Paul Duminy,2018,1.0,MI,AR,0.0,,JP Duminy,23.0,471.0,144.0,1.198653398109349,2.264378509151449,jean-paul duminy,1,80,1
+Saurabh Tiwary,2018,0.8,MI,BAT,0.0,,SS Tiwary,14.0,262.0,0.0,0.8110096051416336,1.9731710803923472,saurabh tiwary,1,80,1
+Tajinder Dhillon,2018,0.55,MI,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,tajinder dhillon,0,80,1
+Akila Dhananjaya,2018,0.5,MI,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,akila dhananjaya,0,80,1
+Nidheesh M D Dinesan,2018,0.2,MI,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,nidheesh m d dinesan,0,80,1
+Aditya Tare,2018,0.2,MI,WK,0.0,,AP Tare,7.0,55.0,0.0,-0.8229648733619497,0.4096902343897293,aditya tare,1,80,1
+Siddhesh Dinesh Lad,2018,0.2,MI,BAT,0.0,,SD Lad,0.0,0.0,0.0,0.0,2.548144929839141,siddhesh dinesh lad,0,80,1
+Mayank Markande,2018,0.2,MI,BOWL,0.0,,M Markande,0.0,0.0,0.0,0.0,2.548144929839141,mayank markande,0,80,0
+Sharad Lumba,2018,0.2,MI,BAT,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,sharad lumba,0,80,1
+Anukul Roy,2018,0.2,MI,AR,0.0,,AS Roy,0.0,0.0,0.0,0.0,2.548144929839141,anukul roy,0,80,0
+Mohsin Khan,2018,0.2,MI,BOWL,0.0,,Mohsin Khan,0.0,0.0,0.0,0.0,2.548144929839141,mohsin khan,0,80,0
+Benjamin Stokes,2018,12.5,RR,AR,0.0,,BA Stokes,12.0,221.0,264.0,2.3075409119014374,4.377552862152797,benjamin stokes,1,80,1
+Jaydev Unadkat,2018,11.5,RR,BOWL,0.0,,JD Unadkat,14.0,5.0,311.0,2.134061648046054,2.4228346321547702,jaydev unadkat,1,80,0
+Sanju Samson,2018,8.0,RR,WK,0.0,,SV Samson,39.0,695.0,0.0,-0.508554193827529,1.2576452473258246,sanju samson,1,80,1
+Jofra Archer,2018,7.2,RR,AR,1.0,,JC Archer,0.0,0.0,0.0,0.0,2.548144929839141,jofra archer,0,80,0
+Krishnappa Gowtham,2018,6.2,RR,BOWL,0.0,,K Gowtham,0.0,0.0,0.0,0.0,2.548144929839141,krishnappa gowtham,0,80,1
+Jos Buttler,2018,4.4,RR,WK,1.0,,JC Buttler,24.0,361.0,0.0,1.0866055934240775,1.2533238510926967,jos buttler,1,80,0
+Ajinkya Rahane,2018,4.0,RR,BAT,0.0,,AM Rahane,43.0,1115.0,0.0,0.40815948016712317,1.8821866815913948,ajinkya rahane,1,80,0
+Darcy Short,2018,4.0,RR,AR,0.0,,DJM Short,0.0,0.0,0.0,0.0,2.548144929839141,darcy short,0,80,1
+Rahul Tripathi,2018,3.4,RR,BAT,0.0,,RA Tripathi,14.0,267.0,6.0,1.375613191038495,2.032013370043658,rahul tripathi,1,80,0
+Dhawal Kulkarni,2018,0.75,RR,BOWL,0.0,,DS Kulkarni,31.0,29.0,617.0,1.105403490434617,1.6067664955535679,dhawal kulkarni,1,80,1
+Zahir Khan Pakteen,2018,0.6,RR,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,zahir khan pakteen,0,80,1
+Ben Laughlin,2018,0.5,RR,BOWL,0.0,,B Laughlin,0.0,0.0,0.0,0.0,2.548144929839141,ben laughlin,0,80,1
+Stuart Binny,2018,0.5,RR,AR,0.0,,STR Binny,32.0,181.0,252.0,-0.3498654706490891,0.6762290482679452,stuart binny,1,80,1
+Dushmantha Chameera,2018,0.5,RR,BOWL,1.0,,PVD Chameera,0.0,0.0,0.0,0.0,2.548144929839141,dushmantha chameera,0,80,0
+Anureet Singh,2018,0.3,RR,BOWL,0.0,,Anureet Singh,17.0,43.0,358.0,-1.6000828909576503,2.2200848945208618,anureet singh,1,80,1
+Aryaman Vikram Birla,2018,0.3,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,aryaman vikram birla,0,80,1
+Midhun S,2018,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,midhun s,0,80,1
+Shreyas Gopal,2018,0.2,RR,AR,0.0,,S Gopal,2.0,17.0,31.0,-0.177289467728486,0.6836187660902846,shreyas gopal,1,80,0
+Prashant Chopra,2018,0.2,RR,WK,0.0,,P Chopra,0.0,0.0,0.0,0.0,2.548144929839141,prashant chopra,0,80,1
+Jatin Saxena,2018,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,jatin saxena,0,80,1
+Ankit Sharma,2018,0.2,RR,AR,0.0,,Ankit Sharma,8.0,24.0,156.0,-0.4506872504112654,2.010510340128638,ankit sharma,1,80,1
+Mahipal Lomror,2018,0.2,RR,AR,0.0,,MK Lomror,0.0,0.0,0.0,0.0,2.548144929839141,mahipal lomror,0,80,0
+Chris Woakes,2018,7.4,RCB,AR,1.0,,CR Woakes,13.0,47.0,264.0,-0.1651629920868573,2.250899868875117,chris woakes,1,80,0
+Yuzvendra Singh Chahal,2018,6.0,RCB,BOWL,0.0,,YS Chahal,40.0,27.0,837.0,1.5447495128191364,1.4899214278686894,yuzvendra singh chahal,1,80,1
+Umesh Yadav,2018,4.2,RCB,BOWL,0.0,,UT Yadav,35.0,32.0,699.0,-0.8248650982865714,1.5169686460090523,umesh yadav,1,80,0
+Brendon McCullum,2018,3.6,RCB,BAT,0.0,,BB McCullum,41.0,759.0,0.0,1.5830243428416297,1.2819538189191997,brendon mccullum,1,80,1
+M.S. Washington Sundar,2018,3.2,RCB,AR,0.0,,Washington Sundar,10.0,12.0,180.0,1.6912527357170515,1.7713167955057743,m s washington sundar,1,80,1
+Navdeep Saini,2018,3.0,RCB,BOWL,0.0,,Navdeep Saini,0.0,0.0,0.0,0.0,2.548144929839141,navdeep saini,0,80,0
+Quinton De Kock,2018,2.8,RCB,WK,1.0,,Q de Kock,16.0,404.0,0.0,1.8929587487868595,2.9685909776545696,quinton de kock,1,80,0
+Mohammed Siraj,2018,2.6,RCB,BOWL,0.0,,Mohammed Siraj,6.0,0.0,138.0,-0.16824181730953638,2.3581462546597356,mohammed siraj,1,80,1
+Nathan Coulter-Nile,2018,2.2,RCB,BOWL,1.0,,NM Coulter-Nile,23.0,44.0,515.0,1.9353889407219333,2.1768072771949627,nathan coulter-nile,1,80,0
+Colin De Grandhomme,2018,2.2,RCB,AR,0.0,,C de Grandhomme,12.0,92.0,96.0,-0.22527279328793656,0.9112248524776552,colin de grandhomme,1,80,1
+M. Ashwin,2018,2.2,RCB,BOWL,0.0,,M Ashwin,10.0,1.0,171.0,-0.25923536378290885,1.6164198810736197,m ashwin,1,80,1
+Parthiv Patel,2018,1.7,RCB,WK,0.0,,PA Patel,40.0,691.0,0.0,-0.32914809203126516,1.1909783589472605,parthiv patel,1,80,1
+Moeen Ali,2018,1.7,RCB,AR,1.0,,MM Ali,0.0,0.0,0.0,0.0,2.548144929839141,moeen ali,0,80,0
+Mandeep Singh,2018,1.4,RCB,AR,0.0,,Mandeep Singh,18.0,277.0,0.0,-0.6875266570305504,1.4059863606960146,mandeep singh,1,80,0
+Manan Vohra,2018,1.1,RCB,BAT,0.0,,M Vohra,23.0,371.0,0.0,-0.8563031723389625,1.4053525902510626,manan vohra,1,80,0
+Pawan Negi,2018,1.0,RCB,AR,0.0,,P Negi,29.0,243.0,427.0,0.9170475649103553,1.5821422791863924,pawan negi,1,80,1
+Tim Southee,2018,1.0,RCB,BOWL,1.0,,TG Southee,21.0,31.0,486.0,-0.6746678917305942,2.3389138516517347,tim southee,1,80,0
+Kulwant Khejroliya,2018,0.85,RCB,BOWL,0.0,,K Khejroliya,0.0,0.0,0.0,0.0,2.548144929839141,kulwant khejroliya,0,80,0
+Aniket Choudhary,2018,0.3,RCB,BOWL,0.0,,A Choudhary,5.0,20.0,101.0,-0.08743740546627168,1.837379485003597,aniket choudhary,1,80,1
+Pavan Deshpande,2018,0.2,RCB,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,pavan deshpande,0,80,1
+Anirudha Ashok Joshi,2018,0.2,RCB,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,anirudha ashok joshi,0,80,1
+Manish Pandey,2018,11.0,SRH,BAT,0.0,,MK Pandey,35.0,675.0,0.0,0.2831378327012226,1.479757743195531,manish pandey,1,80,0
+Rashid Khan Arman,2018,9.0,SRH,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,rashid khan arman,0,80,1
+Shikhar Dhawan,2018,5.2,SRH,BAT,0.0,,S Dhawan,45.0,1091.0,0.0,-0.5085989752966665,1.684102387824775,shikhar dhawan,1,80,0
+Wriddhiman Saha,2018,5.0,SRH,WK,0.0,,WP Saha,36.0,596.0,0.0,-0.7982231193572987,1.1947721144759043,wriddhiman saha,1,80,0
+Siddarth Kaul,2018,3.8,SRH,BOWL,0.0,,S Kaul,10.0,2.0,214.0,0.7316149360867288,2.3240232786024433,siddarth kaul,1,80,1
+Deepak Hooda,2018,3.6,SRH,AR,0.0,,DJ Hooda,34.0,268.0,193.0,-0.5346359141180781,0.6740651662540712,deepak hooda,1,80,0
+Syed Khaleel Ahmed,2018,3.0,SRH,BOWL,0.0,,KK Ahmed,0.0,0.0,0.0,0.0,2.548144929839141,syed khaleel ahmed,0,80,0
+Sandeep Sharma,2018,3.0,SRH,BOWL,0.0,,Sandeep Sharma,41.0,29.0,888.0,2.028476754883534,1.533848973610919,sandeep sharma,1,80,0
+Kane Williamson,2018,3.0,SRH,BAT,1.0,,KS Williamson,15.0,318.0,6.0,0.36878713410592917,2.3488716354136856,kane williamson,1,80,0
+Carlos Brathwaite,2018,2.0,SRH,AR,0.0,,CR Brathwaite,10.0,53.0,175.0,-0.3892451698195259,1.9053506923457095,carlos brathwaite,1,80,1
+Shakib Al Hasan,2018,2.0,SRH,AR,1.0,,Shakib Al Hasan,15.0,134.0,288.0,-1.0424786687314456,2.528508368524916,shakib al hasan,1,80,0
+Yusuf Pathan,2018,1.9,SRH,AR,0.0,,YK Pathan,38.0,594.0,120.0,1.3229566272576418,1.165801889864222,yusuf pathan,1,80,1
+Shreevats Goswami,2018,1.0,SRH,WK,0.0,,SP Goswami,0.0,0.0,0.0,0.0,2.548144929839141,shreevats goswami,0,80,1
+Mohammad Nabi,2018,1.0,SRH,AR,1.0,,Mohammad Nabi,3.0,3.0,66.0,0.8023030055218663,1.450109765731509,mohammad nabi,1,80,0
+Chris Jordan,2018,1.0,SRH,AR,1.0,,CJ Jordan,10.0,5.0,174.0,-0.19948518091546516,1.6655222524350635,chris jordan,1,80,0
+Basil Thampi,2018,0.95,SRH,BOWL,0.0,,Basil Thampi,12.0,28.0,268.0,-1.9777269215944233,2.532893499091157,basil thampi,1,80,0
+Billy Stanlake,2018,0.5,SRH,BAT,0.0,,B Stanlake,2.0,0.0,48.0,-0.13212359763460177,1.1568124921520635,billy stanlake,1,80,1
+T Natarajan,2018,0.4,SRH,BOWL,0.0,,T Natarajan,6.0,0.0,76.0,-0.39802899001532827,0.8301341973203705,t natarajan,1,80,0
+Sachin Baby,2018,0.2,SRH,BAT,0.0,,Sachin Baby,11.0,94.0,10.0,0.07679312021005613,0.552916836314049,sachin baby,1,80,0
+Bipul Sharma,2018,0.2,SRH,AR,0.0,,Bipul Sharma,16.0,51.0,224.0,0.16067371460605118,1.2682973669093403,bipul sharma,1,80,1
+Syed Mehdi Hasan,2018,0.2,SRH,AR,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,syed mehdi hasan,0,80,1
+Ricky Bhui,2018,0.2,SRH,BAT,0.0,,RK Bhui,0.0,0.0,0.0,0.0,2.548144929839141,ricky bhui,0,80,0
+Tanmay Agarwal,2018,0.2,SRH,BAT,0.0,,,0.0,0.0,0.0,0.0,2.548144929839141,tanmay agarwal,0,80,1
+Mohit Sharma,2019,5.0,CSK,BOWL,0.0,,MM Sharma,37.0,89.0,743.0,-2.497210997421899,1.5784846800891088,mohit sharma,1,82,0
+Ruturaj Gaikwad,2019,0.2,CSK,BAT,0.0,,RD Gaikwad,0.0,0.0,0.0,0.0,2.1403453642453565,ruturaj gaikwad,0,82,1
+Colin Ingram,2019,6.4,DC,BAT,0.0,,CA Ingram,0.0,0.0,0.0,0.0,2.1403453642453565,colin ingram,0,82,1
+Axar Rajesh Patel,2019,5.0,DC,AR,0.0,,AR Patel,37.0,308.0,731.0,0.28888445669884943,1.9772531934633182,axar rajesh patel,1,82,1
+Hanuma Vihari,2019,2.0,DC,BAT,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,hanuma vihari,0,82,1
+Sherfane Rutherford,2019,2.0,DC,AR,1.0,,SE Rutherford,0.0,0.0,0.0,0.0,2.1403453642453565,sherfane rutherford,0,82,0
+Ishant Sharma,2019,1.1,DC,BOWL,0.0,,I Sharma,10.0,12.0,198.0,-2.653626534820391,2.1403453642453565,ishant sharma,1,82,0
+Keemo Paul,2019,0.5,DC,AR,0.0,,KMA Paul,0.0,0.0,0.0,0.0,2.1403453642453565,keemo paul,0,82,1
+Jalaj Saxena,2019,0.2,DC,AR,0.0,,Jalaj S Saxena,0.0,0.0,0.0,0.0,2.1403453642453565,jalaj saxena,0,82,1
+Ankush Bains,2019,0.2,DC,WK,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,ankush bains,0,82,1
+Nathu Singh,2019,0.2,DC,BOWL,0.0,,NB Singh,2.0,0.0,24.0,0.27229704640545116,0.324476632465774,nathu singh,1,82,1
+Bandaru Ayyappa,2019,0.2,DC,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,bandaru ayyappa,0,82,1
+Varun Chakaravarthy,2019,8.4,PBKS,AR,0.0,,CV Varun,0.0,0.0,0.0,0.0,2.1403453642453565,varun chakaravarthy,0,82,1
+Sam Curran,2019,7.2,PBKS,AR,1.0,,SM Curran,0.0,0.0,0.0,0.0,2.1403453642453565,sam curran,0,82,0
+Mohammad Shami,2019,4.8,PBKS,BOWL,0.0,,Mohammed Shami,20.0,34.0,390.0,-2.948776275733164,1.93750918969985,mohammad shami,1,82,0
+Prabhsimran Singh,2019,4.8,PBKS,WK,0.0,,P Simran Singh,0.0,0.0,0.0,0.0,2.1403453642453565,prabhsimran singh,0,82,0
+Nicolas Pooran,2019,4.2,PBKS,WK,0.0,,N Pooran,0.0,0.0,0.0,0.0,2.1403453642453565,nicolas pooran,0,82,1
+Moises Henriques,2019,1.0,PBKS,AR,0.0,,MC Henriques,29.0,361.0,456.0,-1.7669522490635112,2.20267562811662,moises henriques,1,82,1
+Hardus Viljoen,2019,0.75,PBKS,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,hardus viljoen,0,82,1
+Darshan Nalkande,2019,0.3,PBKS,AR,0.0,,DG Nalkande,0.0,0.0,0.0,0.0,2.1403453642453565,darshan nalkande,0,82,0
+Sarfaraz Naushad Khan,2019,0.25,PBKS,AR,0.0,,SN Khan,10.0,72.0,0.0,0.12352859995775298,0.46359308271667626,sarfaraz naushad khan,1,82,1
+Arshdeep Singh,2019,0.2,PBKS,BOWL,1.0,,Arshdeep Singh,0.0,0.0,0.0,0.0,2.1403453642453565,arshdeep singh,0,82,0
+Agnivesh Ayachi,2019,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,agnivesh ayachi,0,82,1
+Harpreet Brar,2019,0.2,PBKS,AR,0.0,,Harpreet Brar,0.0,0.0,0.0,0.0,2.1403453642453565,harpreet brar,0,82,0
+M. Ashwin,2019,0.2,PBKS,BOWL,0.0,,M Ashwin,12.0,3.0,213.0,0.06613589343461444,1.7931812759303498,m ashwin,1,82,1
+Carlos Brathwaite,2019,5.0,KKR,AR,0.0,,CR Brathwaite,14.0,101.0,236.0,-0.16094333762577454,2.1258298098394635,carlos brathwaite,1,82,1
+Lockie Ferguson,2019,1.6,KKR,BOWL,1.0,,LH Ferguson,4.0,1.0,78.0,0.34393534141325466,1.498853592250568,lockie ferguson,1,82,0
+Joe Denly,2019,1.0,KKR,BAT,0.0,,JL Denly,0.0,0.0,0.0,0.0,2.1403453642453565,joe denly,0,82,1
+Harry Gurney,2019,0.75,KKR,BOWL,0.0,,HF Gurney,0.0,0.0,0.0,0.0,2.1403453642453565,harry gurney,0,82,1
+Nikhil Shankar Naik,2019,0.2,KKR,WK,0.0,,NS Naik,2.0,31.0,0.0,-0.3849388647673898,0.6732353957408337,nikhil shankar naik,1,82,1
+Shrikant Mundhe,2019,0.2,KKR,AR,0.0,,SS Mundhe,0.0,0.0,0.0,0.0,2.1403453642453565,shrikant mundhe,0,82,1
+Prithvi Raj Yarra,2019,0.2,KKR,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,prithvi raj yarra,0,82,1
+Anrich Nortje,2019,0.2,KKR,BOWL,1.0,,A Nortje,0.0,0.0,0.0,0.0,2.1403453642453565,anrich nortje,0,82,0
+Barinder Singh Sran,2019,3.4,MI,BOWL,0.0,,BB Sran,21.0,11.0,441.0,-1.750882773357704,2.08113831170972,barinder singh sran,1,82,1
+Lasith Malinga,2019,2.0,MI,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,lasith malinga,0,82,1
+Yuvraj Singh,2019,1.0,MI,AR,0.0,,Yuvraj Singh,28.0,429.0,61.0,-0.6440479443409934,1.368429222852354,yuvraj singh,1,82,1
+Anmolpreet Singh,2019,0.8,MI,BAT,0.0,,Anmolpreet Singh,0.0,0.0,0.0,0.0,2.1403453642453565,anmolpreet singh,0,82,0
+Pankaj Jaswal,2019,0.2,MI,AR,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,pankaj jaswal,0,82,1
+Rasikh Dar,2019,0.2,MI,BOWL,0.0,,Rasikh Salam,0.0,0.0,0.0,0.0,2.1403453642453565,rasikh dar,0,82,0
+Jaydev Unadkat,2019,8.4,RR,BOWL,0.0,,JD Unadkat,28.0,43.0,595.0,0.1119447573668242,1.9083329794615367,jaydev unadkat,1,82,0
+Varun Aaron,2019,2.4,RR,BOWL,0.0,,VR Aaron,14.0,10.0,262.0,-1.2585657167049624,1.9336886066216328,varun aaron,1,82,0
+Oshane Thomas,2019,1.1,RR,BOWL,0.0,,O Thomas,0.0,0.0,0.0,0.0,2.1403453642453565,oshane thomas,0,82,1
+Ashton Turner,2019,0.5,RR,AR,1.0,,AJ Turner,0.0,0.0,0.0,0.0,2.1403453642453565,ashton turner,0,82,0
+Liam Livingstone,2019,0.5,RR,AR,1.0,,LS Livingstone,0.0,0.0,0.0,0.0,2.1403453642453565,liam livingstone,0,82,0
+Shashank Singh,2019,0.3,RR,AR,0.0,,Shashank Singh,0.0,0.0,0.0,0.0,2.1403453642453565,shashank singh,0,82,0
+Riyan Parag,2019,0.2,RR,AR,0.0,,R Parag,0.0,0.0,0.0,0.0,2.1403453642453565,riyan parag,0,82,0
+Manan Vohra,2019,0.2,RR,BAT,0.0,,M Vohra,20.0,337.0,0.0,-0.4509897826283321,1.7204159816817148,manan vohra,1,82,0
+Shubham Ranjane,2019,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,shubham ranjane,0,82,1
+Shivam Dube,2019,5.0,RCB,AR,0.0,,S Dube,0.0,0.0,0.0,0.0,2.1403453642453565,shivam dube,0,82,0
+Shimron Hetmyer,2019,4.2,RCB,BAT,1.0,,SO Hetmyer,0.0,0.0,0.0,0.0,2.1403453642453565,shimron hetmyer,0,82,0
+Akshdeep Nath,2019,3.6,RCB,AR,0.0,,AD Nath,5.0,41.0,0.0,-0.6968593309827109,0.44285693094451556,akshdeep nath,1,82,1
+Prayas Ray Barman,2019,1.5,RCB,AR,0.0,,P Ray Barman,0.0,0.0,0.0,0.0,2.1403453642453565,prayas ray barman,0,82,1
+Himmat Singh,2019,0.65,RCB,BAT,0.0,,Himmat Singh,0.0,0.0,0.0,0.0,2.1403453642453565,himmat singh,0,82,0
+Gurkeerat Singh Mann,2019,0.5,RCB,AR,0.0,,Gurkeerat Singh,6.0,86.0,24.0,0.044848142828323265,1.4184186439825988,gurkeerat singh mann,1,82,1
+Heinrich Klaasen,2019,0.5,RCB,WK,1.0,,H Klaasen,4.0,47.0,0.0,-0.15995341803270016,0.7434703609639122,heinrich klaasen,1,82,0
+Devdutt Padikkal,2019,0.2,RCB,BAT,0.0,,D Padikkal,0.0,0.0,0.0,0.0,2.1403453642453565,devdutt padikkal,0,82,0
+Milind Kumar,2019,0.2,RCB,AR,0.0,,,0.0,0.0,0.0,0.0,2.1403453642453565,milind kumar,0,82,1
+Jonny Bairstow,2019,2.2,SRH,WK,1.0,,JM Bairstow,0.0,0.0,0.0,0.0,2.1403453642453565,jonny bairstow,0,82,0
+Wriddhiman Saha,2019,1.2,SRH,WK,0.0,,WP Saha,33.0,501.0,0.0,-1.0796155424171572,1.2024512906788474,wriddhiman saha,1,82,0
+Martin Guptill,2019,1.0,SRH,BAT,0.0,,MJ Guptill,10.0,143.0,0.0,-0.18391609444505996,1.4779018420018835,martin guptill,1,82,1
+Piyush Chawla,2020,6.75,CSK,BOWL,0.0,,PP Chawla,34.0,77.0,681.0,-1.3455269598720703,1.7965648748158036,piyush chawla,1,85,0
+Sam Curran,2020,5.5,CSK,AR,1.0,,SM Curran,9.0,55.0,198.0,-1.375336585160497,3.3118916032801535,sam curran,1,85,0
+Josh Hazlewood,2020,2.0,CSK,BOWL,1.0,,JR Hazlewood,0.0,0.0,0.0,0.0,3.1171573337594185,josh hazlewood,0,85,0
+R. Sai Kishore,2020,0.2,CSK,BOWL,1.0,,R Sai Kishore,0.0,0.0,0.0,0.0,3.1171573337594185,r sai kishore,0,85,0
+Shimron Hetmyer,2020,7.75,DC,BAT,1.0,,SO Hetmyer,5.0,73.0,0.0,-0.35509973712572246,1.354065403058692,shimron hetmyer,1,85,0
+Marcus Stoinis,2020,4.8,DC,AR,1.0,,MP Stoinis,22.0,256.0,229.0,-1.6356862828219036,1.8834456239363035,marcus stoinis,1,85,0
+Alex Carey,2020,2.4,DC,WK,0.0,,AT Carey,0.0,0.0,0.0,0.0,3.1171573337594185,alex carey,0,85,1
+Jason Roy,2020,1.5,DC,BAT,1.0,,JJ Roy,8.0,134.0,0.0,0.3134637414897782,1.9858915478503276,jason roy,1,85,0
+Chris Woakes,2020,1.5,DC,AR,1.0,,CR Woakes,18.0,66.0,374.0,-0.942648860132059,2.601000762821724,chris woakes,1,85,0
+Mohit Sharma,2020,0.5,DC,BOWL,0.0,,MM Sharma,24.0,65.0,470.0,-3.1109263537443175,2.1062236964789705,mohit sharma,1,85,0
+Tushar Deshpande,2020,0.2,DC,BOWL,0.0,,TU Deshpande,0.0,0.0,0.0,0.0,3.1171573337594185,tushar deshpande,0,85,0
+Lalit Yadav,2020,0.2,DC,AR,0.0,,Lalit Yadav,0.0,0.0,0.0,0.0,3.1171573337594185,lalit yadav,0,85,0
+Glenn Maxwell,2020,10.75,PBKS,AR,1.0,,GJ Maxwell,26.0,299.0,210.0,1.8659060483198364,1.5140901599758676,glenn maxwell,1,85,0
+Sheldon Cottrell,2020,8.5,PBKS,BOWL,0.0,,SS Cottrell,0.0,0.0,0.0,0.0,3.1171573337594185,sheldon cottrell,0,85,1
+Chris Jordan,2020,3.0,PBKS,AR,1.0,,CJ Jordan,2.0,1.0,30.0,0.03242956510894926,0.6404506984327283,chris jordan,1,85,0
+Ravi Bishnoi,2020,2.0,PBKS,BOWL,0.0,,Ravi Bishnoi,0.0,0.0,0.0,0.0,3.1171573337594185,ravi bishnoi,0,85,0
+Prabhsimran Singh,2020,0.55,PBKS,WK,0.0,,P Simran Singh,1.0,17.0,0.0,-0.06393075880597332,0.36604321316179295,prabhsimran singh,1,85,0
+Deepak Hooda,2020,0.5,PBKS,AR,0.0,,DJ Hooda,22.0,196.0,54.0,-0.9072605559120678,0.7730217287747341,deepak hooda,1,85,0
+James Neesham,2020,0.5,PBKS,AR,1.0,,JDS Neesham,0.0,0.0,0.0,0.0,3.1171573337594185,james neesham,0,85,0
+Tajinder Dhillon,2020,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,3.1171573337594185,tajinder dhillon,0,85,1
+Ishan Porel,2020,0.2,PBKS,BOWL,0.0,,IC Porel,0.0,0.0,0.0,0.0,3.1171573337594185,ishan porel,0,85,0
+Pat Cummins,2020,15.5,KKR,AR,1.0,,PJ Cummins,12.0,53.0,277.0,0.6138007208666287,3.3370205268558886,pat cummins,1,85,0
+Eoin Morgan,2020,5.25,KKR,BAT,0.0,,EJG Morgan,4.0,62.0,0.0,-0.577637362266933,1.32723925287731,eoin morgan,1,85,1
+Varun Chakaravarthy,2020,4.0,KKR,AR,0.0,,CV Varun,1.0,0.0,18.0,-0.14391182885707732,0.37703117072018005,varun chakaravarthy,1,85,1
+Tom Banton,2020,1.0,KKR,BAT,1.0,,T Banton,0.0,0.0,0.0,0.0,3.1171573337594185,tom banton,0,85,0
+Rahul Tripathi,2020,0.6,KKR,BAT,0.0,,RA Tripathi,33.0,552.0,6.0,0.4016575086003916,1.422012444341385,rahul tripathi,1,85,0
+Chris Green,2020,0.2,KKR,AR,0.0,,C Green,0.0,0.0,0.0,0.0,3.1171573337594185,chris green,0,85,1
+Nikhil Shankar Naik,2020,0.2,KKR,WK,0.0,,NS Naik,1.0,16.0,0.0,-0.19996170906862207,0.3256775902953493,nikhil shankar naik,1,85,1
+Pravin Tambe,2020,0.2,KKR,BOWL,0.0,,PV Tambe,0.0,0.0,0.0,0.0,3.1171573337594185,pravin tambe,0,85,1
+M Siddharth,2020,0.2,KKR,BOWL,0.0,,M Siddharth,0.0,0.0,0.0,0.0,3.1171573337594185,m siddharth,0,85,0
+Nathan Coulter-Nile,2020,8.0,MI,BOWL,1.0,,NM Coulter-Nile,8.0,12.0,170.0,1.5294734345728898,2.7902218447112315,nathan coulter-nile,1,85,0
+Chris Lynn,2020,2.0,MI,BAT,0.0,,CA Lynn,36.0,830.0,0.0,2.233371503235138,2.006713718759522,chris lynn,1,85,1
+Saurabh Tiwary,2020,0.5,MI,BAT,0.0,,SS Tiwary,1.0,43.0,0.0,0.414680917500365,2.1016975704917735,saurabh tiwary,1,85,1
+Digvijay Deshmukh,2020,0.2,MI,AR,0.0,,,0.0,0.0,0.0,0.0,3.1171573337594185,digvijay deshmukh,0,85,1
+Prince Balwant Rai Singh,2020,0.2,MI,AR,0.0,,,0.0,0.0,0.0,0.0,3.1171573337594185,prince balwant rai singh,0,85,1
+Mohsin Khan,2020,0.2,MI,BOWL,0.0,,Mohsin Khan,0.0,0.0,0.0,0.0,3.1171573337594185,mohsin khan,0,85,0
+Robin Uthappa,2020,3.0,RR,BAT,0.0,,RV Uthappa,40.0,745.0,0.0,0.3140139162033068,1.4482594028465294,robin uthappa,1,85,0
+Jaydev Unadkat,2020,3.0,RR,BOWL,0.0,,JD Unadkat,38.0,46.0,801.0,-1.1087471182597248,1.7425079483149892,jaydev unadkat,1,85,0
+Yashasvi Jaiswal,2020,2.4,RR,AR,0.0,,YBK Jaiswal,0.0,0.0,0.0,0.0,3.1171573337594185,yashasvi jaiswal,0,85,1
+Kartik Tyagi,2020,1.3,RR,BOWL,0.0,,Kartik Tyagi,0.0,0.0,0.0,0.0,3.1171573337594185,kartik tyagi,0,85,0
+Tom Curran,2020,1.0,RR,AR,1.0,,TK Curran,5.0,28.0,61.0,-0.6636642093389671,1.1604472245066488,tom curran,1,85,0
+Andrew Tye,2020,1.0,RR,BOWL,0.0,,AJ Tye,26.0,70.0,594.0,1.4292169619589568,2.4600369955717323,andrew tye,1,85,1
+Anuj Rawat,2020,0.8,RR,WK,0.0,,Anuj Rawat,0.0,0.0,0.0,0.0,3.1171573337594185,anuj rawat,0,85,0
+David Miller,2020,0.75,RR,BAT,1.0,,DA Miller,17.0,308.0,0.0,-0.8893743662744147,2.1086435776534618,david miller,1,85,0
+Oshane Thomas,2020,0.5,RR,BOWL,0.0,,O Thomas,4.0,0.0,60.0,0.47658938314045357,1.1711637790415594,oshane thomas,1,85,1
+Anirudha Ashok Joshi,2020,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,3.1171573337594185,anirudha ashok joshi,0,85,1
+Akash Singh,2020,0.2,RR,BOWL,0.0,,Akash Singh,0.0,0.0,0.0,0.0,3.1171573337594185,akash singh,0,85,0
+Christopher Morris,2020,10.0,RCB,AR,0.0,,CH Morris,22.0,157.0,468.0,-0.19550392639619896,2.8250559294783186,christopher morris,1,85,1
+Aaron Finch,2020,4.4,RCB,BAT,0.0,,AJ Finch,22.0,280.0,0.0,0.6777875269624196,1.1789860428617214,aaron finch,1,85,1
+Kane Richardson,2020,4.0,RCB,BOWL,0.0,,KW Richardson,0.0,0.0,0.0,0.0,3.1171573337594185,kane richardson,0,85,1
+Dale Steyn,2020,2.0,RCB,BOWL,0.0,,DW Steyn,2.0,0.0,48.0,0.2556198716295869,1.5320679665122838,dale steyn,1,85,1
+Isuru Udana,2020,0.5,RCB,AR,0.0,,I Udana,0.0,0.0,0.0,0.0,3.1171573337594185,isuru udana,0,85,1
+Shahbaz Ahamad,2020,0.2,RCB,WK,0.0,,Shahbaz Ahmed,0.0,0.0,0.0,0.0,3.1171573337594185,shahbaz ahamad,0,85,0
+Joshua Philippe,2020,0.2,RCB,WK,0.0,,JR Philippe,0.0,0.0,0.0,0.0,3.1171573337594185,joshua philippe,0,85,1
+Pavan Deshpande,2020,0.2,RCB,AR,0.0,,,0.0,0.0,0.0,0.0,3.1171573337594185,pavan deshpande,0,85,1
+Mitchell Marsh,2020,2.0,SRH,AR,1.0,,MR Marsh,0.0,0.0,0.0,0.0,3.1171573337594185,mitchell marsh,0,85,0
+Priyam Garg,2020,1.9,SRH,BAT,0.0,,PK Garg,0.0,0.0,0.0,0.0,3.1171573337594185,priyam garg,0,85,0
+Virat Singh,2020,1.9,SRH,BAT,0.0,,Virat Singh,0.0,0.0,0.0,0.0,3.1171573337594185,virat singh,0,85,1
+Fabian Allen,2020,0.5,SRH,AR,1.0,,FH Allen,0.0,0.0,0.0,0.0,3.1171573337594185,fabian allen,0,85,0
+Sandeep Bavanaka,2020,0.2,SRH,AR,0.0,,,0.0,0.0,0.0,0.0,3.1171573337594185,sandeep bavanaka,0,85,1
+Sanjay Yadav,2020,0.2,SRH,AR,0.0,,SA Yadav,36.0,796.0,0.0,-0.0002373256724003482,1.9080247771426835,sanjay yadav,1,85,0
+Abdul Samad,2020,0.2,SRH,AR,0.0,,Abdul Samad,0.0,0.0,0.0,0.0,3.1171573337594185,abdul samad,0,85,0
+Krishnappa Gowtham,2021,9.25,CSK,AR,0.0,,K Gowtham,24.0,110.0,408.0,-0.4634509501778238,1.966224823905317,krishnappa gowtham,1,85,1
+Moeen Ali,2021,7.0,CSK,AR,1.0,,MM Ali,19.0,195.0,259.0,1.8151306735222725,2.269295588420081,moeen ali,1,85,0
+Cheteshwar Pujara,2021,0.5,CSK,BAT,0.0,,CA Pujara,0.0,0.0,0.0,0.0,3.2488713298356227,cheteshwar pujara,0,85,1
+K.Bhagath Varma,2021,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,k bhagath varma,0,85,0
+C Hari Nishaanth,2021,0.2,CSK,BAT,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,c hari nishaanth,0,85,0
+M. Harisankar Reddy,2021,0.2,CSK,BOWL,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,m harisankar reddy,0,85,1
+Tom Curran,2021,5.25,DC,AR,1.0,,TK Curran,10.0,90.0,170.0,-3.188446370410928,2.858277800023729,tom curran,1,85,0
+Steven Smith,2021,2.2,DC,BAT,0.0,,SPD Smith,24.0,512.0,0.0,-0.5397454825582259,2.249166777607104,steven smith,1,85,1
+Sam Billings,2021,2.0,DC,WK,1.0,,SW Billings,9.0,82.0,0.0,-0.5839209046493216,0.7176034733478165,sam billings,1,85,0
+Umesh Yadav,2021,1.0,DC,BOWL,0.0,,UT Yadav,27.0,38.0,588.0,-1.3390701390562918,2.275795926982,umesh yadav,1,85,0
+Ripal Patel,2021,0.2,DC,AR,0.0,,RV Patel,0.0,0.0,0.0,0.0,3.2488713298356227,ripal patel,0,85,0
+Vishnu Vinod,2021,0.2,DC,WK,0.0,,Vishnu Vinod,0.0,0.0,0.0,0.0,3.2488713298356227,vishnu vinod,0,85,0
+Lukman Hussain Meriwala,2021,0.2,DC,BOWL,0.0,,LI Meriwala,0.0,0.0,0.0,0.0,3.2488713298356227,lukman hussain meriwala,0,85,1
+M Siddharth,2021,0.2,DC,BOWL,0.0,,M Siddharth,0.0,0.0,0.0,0.0,3.2488713298356227,m siddharth,0,85,0
+Shakib Al Hasan,2021,3.2,KKR,AR,1.0,,Shakib Al Hasan,20.0,207.0,407.0,-0.41123793232849915,3.255225959043758,shakib al hasan,1,85,0
+Harbhajan Singh,2021,2.0,KKR,BOWL,0.0,,Harbhajan Singh,24.0,39.0,455.0,1.485724230066619,2.0375801646011045,harbhajan singh,1,85,1
+Ben Cutting,2021,0.75,KKR,AR,0.0,,BCJ Cutting,12.0,75.0,114.0,-1.0225170814938753,1.2472136600918882,ben cutting,1,85,1
+Karun Nair,2021,0.5,KKR,BAT,0.0,,KK Nair,16.0,241.0,0.0,-0.5619160300744929,1.6068484472302567,karun nair,1,85,0
+Pawan Negi,2021,0.5,KKR,AR,0.0,,P Negi,7.0,17.0,91.0,-0.9839006446884769,1.3788136936086635,pawan negi,1,85,1
+Venkatesh Iyer,2021,0.2,KKR,AR,0.0,,VR Iyer,0.0,0.0,0.0,0.0,3.2488713298356227,venkatesh iyer,0,85,0
+Sheldon Jackson,2021,0.2,KKR,WK,0.0,,SP Jackson,0.0,0.0,0.0,0.0,3.2488713298356227,sheldon jackson,0,85,0
+Vaibhav Arora,2021,0.2,KKR,BOWL,0.0,,VG Arora,0.0,0.0,0.0,0.0,3.2488713298356227,vaibhav arora,0,85,0
+Nathan Coulter-Nile,2021,5.0,MI,BOWL,1.0,,NM Coulter-Nile,7.0,15.0,156.0,-0.05166018918739726,3.2128617643228554,nathan coulter-nile,1,85,0
+Adam Milne,2021,3.2,MI,BOWL,1.0,,AF Milne,0.0,0.0,0.0,0.0,3.2488713298356227,adam milne,0,85,0
+Piyush Chawla,2021,2.4,MI,BOWL,0.0,,PP Chawla,35.0,71.0,687.0,-1.3640359224204057,1.7531210217601838,piyush chawla,1,85,0
+James Neesham,2021,0.5,MI,AR,1.0,,JDS Neesham,5.0,18.0,90.0,-1.4156390025860979,2.1266528717791653,james neesham,1,85,0
+Yudhvir Charak,2021,0.2,MI,AR,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,yudhvir charak,0,85,0
+Marco Jansen,2021,0.2,MI,AR,1.0,,M Jansen,0.0,0.0,0.0,0.0,3.2488713298356227,marco jansen,0,85,0
+Arjun Tendulkar,2021,0.2,MI,AR,0.0,,Arjun Tendulkar,0.0,0.0,0.0,0.0,3.2488713298356227,arjun tendulkar,0,85,0
+Jhye Richardson,2021,14.0,PBKS,BOWL,1.0,,JA Richardson,0.0,0.0,0.0,0.0,3.2488713298356227,jhye richardson,0,85,0
+Riley Meredith,2021,8.0,PBKS,BOWL,1.0,,RP Meredith,0.0,0.0,0.0,0.0,3.2488713298356227,riley meredith,0,85,0
+Shahrukh Khan,2021,5.25,PBKS,AR,0.0,,M Shahrukh Khan,0.0,0.0,0.0,0.0,3.2488713298356227,shahrukh khan,0,85,0
+Moises Henriques,2021,4.2,PBKS,AR,0.0,,MC Henriques,0.0,0.0,0.0,0.0,3.2488713298356227,moises henriques,0,85,1
+Dawid Malan,2021,1.5,PBKS,AR,0.0,,DJ Malan,0.0,0.0,0.0,0.0,3.2488713298356227,dawid malan,0,85,1
+Fabian Allen,2021,0.75,PBKS,AR,1.0,,FH Allen,0.0,0.0,0.0,0.0,3.2488713298356227,fabian allen,0,85,0
+Jalaj Saxena,2021,0.3,PBKS,AR,0.0,,Jalaj S Saxena,0.0,0.0,0.0,0.0,3.2488713298356227,jalaj saxena,0,85,1
+Saurabh Kumar,2021,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,saurabh kumar,0,85,1
+Utkarsh Singh,2021,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,utkarsh singh,0,85,1
+Christopher Morris,2021,16.25,RR,AR,0.0,,CH Morris,22.0,84.0,472.0,0.20680977366761388,2.618916943486716,christopher morris,1,85,1
+Shivam Dube,2021,4.4,RR,AR,0.0,,S Dube,14.0,138.0,64.0,-0.4373129397948342,1.1008771161622688,shivam dube,1,85,0
+Chetan Sakariya,2021,1.2,RR,BOWL,0.0,,C Sakariya,0.0,0.0,0.0,0.0,3.2488713298356227,chetan sakariya,0,85,0
+Mustafizur Rahman,2021,1.0,RR,BOWL,1.0,,Mustafizur Rahman,7.0,3.0,165.0,0.04173732681765304,3.457853656637781,mustafizur rahman,1,85,0
+Liam Livingstone,2021,0.75,RR,AR,1.0,,LS Livingstone,4.0,48.0,6.0,0.14833479731676477,0.8333551563643399,liam livingstone,1,85,0
+K.C Cariappa,2021,0.2,RR,BOWL,0.0,,KC Cariappa,1.0,3.0,12.0,-0.24115495818474936,0.20992481214876701,k c cariappa,1,85,0
+Akash Singh,2021,0.2,RR,BOWL,0.0,,Akash Singh,0.0,0.0,0.0,0.0,3.2488713298356227,akash singh,0,85,0
+Kuldip Yadav,2021,0.2,RR,BOWL,0.0,,K Yadav,0.0,0.0,0.0,0.0,3.2488713298356227,kuldip yadav,0,85,0
+Kyle Jamieson,2021,15.0,RCB,AR,1.0,,KA Jamieson,0.0,0.0,0.0,0.0,3.2488713298356227,kyle jamieson,0,85,0
+Glenn Maxwell,2021,14.25,RCB,AR,1.0,,GJ Maxwell,25.0,226.0,222.0,-1.05751301436834,1.3621468579570972,glenn maxwell,1,85,0
+Dan Christian,2021,4.8,RCB,AR,0.0,,DT Christian,4.0,33.0,71.0,-0.08001744370766531,2.1745522726000814,dan christian,1,85,1
+Sachin Baby,2021,0.2,RCB,BAT,0.0,,Sachin Baby,0.0,0.0,0.0,0.0,3.2488713298356227,sachin baby,0,85,0
+Rajat Patidar,2021,0.2,RCB,BAT,0.0,,RM Patidar,0.0,0.0,0.0,0.0,3.2488713298356227,rajat patidar,0,85,1
+Mohammed Azharudeen,2021,0.2,RCB,WK,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,mohammed azharudeen,0,85,1
+Suyash Prabhudesai,2021,0.2,RCB,AR,0.0,,,0.0,0.0,0.0,0.0,3.2488713298356227,suyash prabhudesai,0,85,1
+Kona Srikar Bharat,2021,0.2,RCB,WK,0.0,,KS Bharat,0.0,0.0,0.0,0.0,3.2488713298356227,kona srikar bharat,0,85,1
+Kedar Jadhav,2021,2.0,SRH,AR,0.0,,KM Jadhav,18.0,257.0,0.0,-2.347404138110118,1.4448994887963889,kedar jadhav,1,85,1
+Mujeeb Zadran,2021,1.5,SRH,BOWL,0.0,,Mujeeb Ur Rahman,18.0,14.0,410.0,0.007525942649171023,2.89265697831391,mujeeb zadran,1,85,1
+J Suchith,2021,0.3,SRH,BOWL,0.0,,J Suchith,1.0,15.0,24.0,0.10457995810181034,1.0289216179909282,j suchith,1,85,1
+Robin Uthappa,2022,2.0,CSK,BAT,0.0,,RV Uthappa,27.0,493.0,0.0,-1.3051662342938013,1.6921305003205431,robin uthappa,1,90,0
+Dwayne Bravo,2022,4.4,CSK,AR,1.0,,DJ Bravo,29.0,90.0,575.0,0.6641325850322711,1.994555804666163,dwayne bravo,1,90,0
+Ambati Rayudu,2022,6.75,CSK,WK,0.0,,AT Rayudu,41.0,755.0,0.0,-1.0791001583729574,1.3440101364144743,ambati rayudu,1,90,0
+Deepak Chahar,2022,14.0,CSK,BOWL,0.0,,DL Chahar,46.0,22.0,1023.0,1.0095291340554766,1.6065751136405306,deepak chahar,1,90,0
+C.Hari Nishaanth,2022,0.2,CSK,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,c hari nishaanth,0,90,0
+N. Jagadeesan,2022,0.2,CSK,WK,0.0,,N Jagadeesan,2.0,29.0,0.0,-0.09302651018560432,0.6199707666117145,n jagadeesan,1,90,0
+K.M. Asif,2022,0.2,CSK,BOWL,0.0,,KM Asif,1.0,0.0,13.0,0.03291358183785389,0.22784253327657716,k m asif,1,90,0
+Tushar Deshpande,2022,0.2,CSK,BOWL,0.0,,TU Deshpande,5.0,12.0,102.0,-2.519691339400345,2.4988646021388066,tushar deshpande,1,90,0
+Shivam Dube,2022,4.0,CSK,AR,0.0,,S Dube,23.0,331.0,94.0,-0.8439729643175394,1.522416787590833,shivam dube,1,90,0
+Chris Jordan,2022,3.6,CSK,AR,1.0,,CJ Jordan,13.0,52.0,261.0,-1.6521485736722499,2.7927285969657336,chris jordan,1,90,0
+Maheesh Theekshana,2022,0.7,CSK,BOWL,1.0,,M Theekshana,0.0,0.0,0.0,0.0,3.122516701578256,maheesh theekshana,0,90,0
+Rajvardhan Hangargekar,2022,1.5,CSK,AR,0.0,,RS Hangargekar,0.0,0.0,0.0,0.0,3.122516701578256,rajvardhan hangargekar,0,90,0
+Simarjeet Singh,2022,0.2,CSK,BOWL,0.0,,Simarjeet Singh,0.0,0.0,0.0,0.0,3.122516701578256,simarjeet singh,0,90,0
+Devon Conway,2022,1.0,CSK,BAT,1.0,,DP Conway,0.0,0.0,0.0,0.0,3.122516701578256,devon conway,0,90,0
+Dwaine Pretorius,2022,0.5,CSK,AR,1.0,,D Pretorius,0.0,0.0,0.0,0.0,3.122516701578256,dwaine pretorius,0,90,0
+Mitchell Santner,2022,1.9,CSK,AR,1.0,,MJ Santner,6.0,23.0,126.0,1.3082025579772834,2.86094678670578,mitchell santner,1,90,0
+Adam Milne,2022,1.9,CSK,BOWL,1.0,,AF Milne,4.0,17.0,84.0,-1.1202757676585164,2.428908366533123,adam milne,1,90,0
+Subhranshu Senapati,2022,0.2,CSK,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,subhranshu senapati,0,90,0
+Mukesh Choudhary,2022,0.2,CSK,BOWL,0.0,,Mukesh Choudhary,0.0,0.0,0.0,0.0,3.122516701578256,mukesh choudhary,0,90,0
+Prashant Solanki,2022,1.2,CSK,BOWL,0.0,,PH Solanki,0.0,0.0,0.0,0.0,3.122516701578256,prashant solanki,0,90,0
+K.Bhagath Varma,2022,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,k bhagath varma,0,90,0
+David Warner,2022,6.25,DC,BAT,1.0,,DA Warner,36.0,1069.0,1.0,2.9681278752279097,2.5876275308203844,david warner,1,90,0
+Mitchell Marsh,2022,6.5,DC,AR,1.0,,MR Marsh,1.0,1.0,4.0,-0.0035200678650861876,0.023853348859073187,mitchell marsh,1,90,0
+Mustafizur Rahman,2022,2.0,DC,BOWL,1.0,,Mustafizur Rahman,14.0,14.0,311.0,-1.075519162278426,2.9771511628555567,mustafizur rahman,1,90,0
+Shardul Thakur,2022,10.75,DC,BOWL,0.0,,SN Thakur,34.0,33.0,733.0,-1.597923623442758,1.9087677616122656,shardul thakur,1,90,0
+Kuldeep Yadav,2022,2.0,DC,BOWL,0.0,,Kuldeep Yadav,14.0,29.0,270.0,-1.50524203575378,2.484655802838756,kuldeep yadav,1,90,0
+Ashwin Hebbar,2022,0.2,DC,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,ashwin hebbar,0,90,0
+Sarfaraz Khan,2022,0.2,DC,AR,0.0,,SN Khan,10.0,176.0,2.0,-0.5367894974565799,2.0921395314723696,sarfaraz khan,1,90,0
+Kamlesh Nagarkoti,2022,1.1,DC,AR,0.0,,KL Nagarkoti,11.0,33.0,168.0,-1.5856025400741953,1.878935629236705,kamlesh nagarkoti,1,90,0
+K.S. Bharat,2022,2.0,DC,WK,0.0,,KS Bharat,6.0,156.0,0.0,0.5305289790733293,3.615840092115876,k s bharat,1,90,0
+Mandeep Singh,2022,1.1,DC,BAT,0.0,,Mandeep Singh,20.0,243.0,12.0,-0.14562042014987642,1.0912994704632184,mandeep singh,1,90,0
+Syed Khaleel Ahmed,2022,5.25,DC,BOWL,0.0,,KK Ahmed,23.0,5.0,525.0,0.07362611562363362,2.5376588798220405,syed khaleel ahmed,1,90,0
+Lungisani Ngidi,2022,0.5,DC,BOWL,1.0,,L Ngidi,7.0,0.0,168.0,-1.5752100286333794,3.4853191966908863,lungisani ngidi,1,90,0
+Chetan Sakariya,2022,4.2,DC,BOWL,0.0,,C Sakariya,14.0,25.0,312.0,-0.8251648668053544,3.017551886264339,chetan sakariya,1,90,0
+Yash Dhull,2022,0.5,DC,AR,0.0,,YV Dhull,0.0,0.0,0.0,0.0,3.122516701578256,yash dhull,0,90,0
+Vicky Ostwal,2022,0.2,DC,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,vicky ostwal,0,90,0
+Ripal Patel,2022,0.2,DC,AR,0.0,,RV Patel,2.0,27.0,18.0,-0.0924962388230849,0.8149234444765772,ripal patel,1,90,0
+Lalit Yadav,2022,0.65,DC,AR,0.0,,Lalit Yadav,7.0,73.0,84.0,0.013123030457441065,1.963515436548401,lalit yadav,1,90,0
+Rovman Powell,2022,2.8,DC,BAT,1.0,,R Powell,0.0,0.0,0.0,0.0,3.122516701578256,rovman powell,0,90,0
+Tim Seifert,2022,0.5,DC,WK,1.0,,TL Seifert,1.0,4.0,0.0,-0.011357067083596496,0.020582350819643717,tim seifert,1,90,0
+Pravin Dubey,2022,0.5,DC,AR,0.0,,P Dubey,3.0,13.0,48.0,-0.560689776904956,1.2740498078894211,pravin dubey,1,90,0
+Mohammad Shami,2022,6.25,GT,BOWL,0.0,,Mohammed Shami,42.0,22.0,962.0,0.8226077162292689,1.7736427815809968,mohammad shami,1,90,0
+David Miller,2022,3.0,GT,BAT,1.0,,DA Miller,18.0,277.0,0.0,-0.5219912337535731,1.5737081300953744,david miller,1,90,0
+Jason Roy,2022,2.0,GT,BAT,1.0,,JJ Roy,5.0,121.0,0.0,0.2731520077209033,3.044292023870977,jason roy,1,90,0
+Wriddhiman  Saha,2022,1.9,GT,WK,0.0,,WP Saha,18.0,346.0,0.0,-0.3525423908938584,2.150667632298616,wriddhiman saha,1,90,0
+Matthew Wade,2022,2.4,GT,WK,1.0,,MS Wade,0.0,0.0,0.0,0.0,3.122516701578256,matthew wade,0,90,0
+Lockie Ferguson,2022,10.0,GT,BOWL,1.0,,LH Ferguson,18.0,40.0,401.0,0.103541010448576,2.805019833615284,lockie ferguson,1,90,0
+Abhinav Sadarangani,2022,2.6,GT,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,abhinav sadarangani,0,90,0
+Rahul Tewatia,2022,9.0,GT,AR,0.0,,R Tewatia,32.0,352.0,536.0,-0.516939698594548,2.2300334706376126,rahul tewatia,1,90,0
+Noor  Ahmad,2022,0.3,GT,BOWL,1.0,,Noor Ahmad,0.0,0.0,0.0,0.0,3.122516701578256,noor ahmad,0,90,0
+R. Sai Kishore,2022,3.0,GT,BOWL,0.0,,R Sai Kishore,0.0,0.0,0.0,0.0,3.122516701578256,r sai kishore,0,90,0
+Dominic Drakes,2022,1.1,GT,AR,1.0,,,0.0,0.0,0.0,0.0,3.122516701578256,dominic drakes,0,90,0
+Vijay Shankar,2022,1.4,GT,AR,0.0,,V Shankar,27.0,341.0,193.0,-1.2749451233432092,1.5109973019653524,vijay shankar,1,90,0
+Jayant Yadav,2022,1.7,GT,AR,0.0,,J Yadav,9.0,26.0,186.0,0.18678195749161736,2.914081492048375,jayant yadav,1,90,0
+Darshan Nalkande,2022,0.2,GT,AR,0.0,,DG Nalkande,0.0,0.0,0.0,0.0,3.122516701578256,darshan nalkande,0,90,0
+Yash  Dayal,2022,3.2,GT,BOWL,0.0,,Yash Dayal,0.0,0.0,0.0,0.0,3.122516701578256,yash dayal,0,90,0
+B. Sai Sudharsan,2022,0.2,GT,AR,0.0,,B Sai Sudharsan,0.0,0.0,0.0,0.0,3.122516701578256,b sai sudharsan,0,90,0
+Gurkeerat Singh,2022,0.5,GT,AR,0.0,,Gurkeerat Singh,8.0,150.0,0.0,-0.19800178877885655,2.2752041058555625,gurkeerat singh,1,90,0
+Alzarri Joseph,2022,2.4,GT,BOWL,1.0,,AS Joseph,3.0,13.0,52.0,0.1855650884094274,1.4566482054706886,alzarri joseph,1,90,0
+Varun Aaron,2022,0.5,GT,BOWL,0.0,,VR Aaron,8.0,17.0,120.0,-1.8907529920236297,1.74021070086478,varun aaron,1,90,0
+Pradeep Sangwan,2022,0.2,GT,AR,0.0,,PJ Sangwan,0.0,0.0,0.0,0.0,3.122516701578256,pradeep sangwan,0,90,0
+Pat Cummins,2022,7.25,KKR,AR,1.0,,PJ Cummins,21.0,170.0,473.0,-0.09348898022804583,3.186597525603325,pat cummins,1,90,0
+Shreyas Iyer,2022,12.25,KKR,BAT,0.0,,SS Iyer,41.0,978.0,0.0,-1.3090511766973187,1.8318881979200627,shreyas iyer,1,90,0
+Mohammad  Nabi,2022,1.0,KKR,AR,1.0,,Mohammad Nabi,12.0,104.0,247.0,1.3120770522672789,3.423646071604944,mohammad nabi,1,90,0
+Nitish Rana,2022,8.0,KKR,AR,0.0,,N Rana,42.0,803.0,72.0,0.7963240779189567,1.427643189422406,nitish rana,1,90,0
+Sam Billings,2022,2.0,KKR,WK,1.0,,SW Billings,1.0,4.0,0.0,-0.022160238504616292,0.020582350819643717,sam billings,1,90,0
+Umesh Yadav,2022,2.0,KKR,BOWL,0.0,,UT Yadav,13.0,27.0,269.0,-3.8587183065769355,2.7829087355093756,umesh yadav,1,90,0
+Shivam  Mavi,2022,7.25,KKR,AR,0.0,,Shivam Mavi,17.0,34.0,349.0,1.2301225620295546,2.560263797962768,shivam mavi,1,90,0
+Sheldon Jackson,2022,0.6,KKR,WK,0.0,,SP Jackson,0.0,0.0,0.0,0.0,3.122516701578256,sheldon jackson,0,90,0
+Ajinkya Rahane,2022,1.0,KKR,BAT,0.0,,AM Rahane,22.0,400.0,0.0,-0.6363491393792279,1.8486131507095325,ajinkya rahane,1,90,0
+Rinku Singh,2022,0.55,KKR,BAT,0.0,,RK Singh,4.0,45.0,0.0,-0.29475822972208365,0.7138455276960064,rinku singh,1,90,0
+Anukul Roy,2022,0.2,KKR,AR,0.0,,AS Roy,1.0,0.0,12.0,0.12874275649926353,0.1950779190785343,anukul roy,1,90,0
+Alex Hales,2022,1.5,KKR,BAT,1.0,,AD Hales,0.0,0.0,0.0,0.0,3.122516701578256,alex hales,0,90,0
+Rasikh Dar,2022,0.2,KKR,BOWL,0.0,,Rasikh Salam,1.0,4.0,24.0,-0.34209303542044583,0.758049424005802,rasikh dar,1,90,0
+Tim Southee,2022,1.5,KKR,BOWL,1.0,,TG Southee,6.0,14.0,126.0,-2.3059193548904964,2.7850676197464197,tim southee,1,90,0
+Baba Indrajith,2022,0.2,KKR,WK,0.0,,B Indrajith,0.0,0.0,0.0,0.0,3.122516701578256,baba indrajith,0,90,0
+Chamika Karunaratne,2022,0.5,KKR,AR,1.0,,,0.0,0.0,0.0,0.0,3.122516701578256,chamika karunaratne,0,90,0
+Abhijeet Tomar,2022,0.4,KKR,BAT,0.0,,A Tomar,0.0,0.0,0.0,0.0,3.122516701578256,abhijeet tomar,0,90,0
+Aman Khan,2022,0.2,KKR,AR,0.0,,Aman Hakim Khan,0.0,0.0,0.0,0.0,3.122516701578256,aman khan,0,90,0
+Ramesh Kumar,2022,0.2,KKR,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,ramesh kumar,0,90,0
+Pratham Singh,2022,0.2,KKR,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,pratham singh,0,90,0
+Ashok Sharma,2022,0.55,KKR,BOWL,0.0,,Ashok Sharma,0.0,0.0,0.0,0.0,3.122516701578256,ashok sharma,0,90,0
+Quinton De Kock,2022,6.75,LSG,WK,1.0,,Q de Kock,43.0,1012.0,0.0,0.9966626751338687,1.744686554409011,quinton de kock,1,90,0
+Manish Pandey,2022,4.6,LSG,BAT,0.0,,MK Pandey,34.0,832.0,0.0,0.8302834045142704,2.1375558868800066,manish pandey,1,90,0
+Krunal Pandya,2022,8.25,LSG,AR,0.0,,KH Pandya,45.0,365.0,776.0,-0.9661800922065232,1.6486010968635911,krunal pandya,1,90,0
+Mark Wood,2022,7.5,LSG,BOWL,1.0,,MA Wood,0.0,0.0,0.0,0.0,3.122516701578256,mark wood,0,90,0
+Avesh Khan,2022,10.0,LSG,BOWL,0.0,,Avesh Khan,18.0,6.0,408.0,1.3556972560083367,2.8063305118116038,avesh khan,1,90,0
+Ankit Singh Rajpoot,2022,0.5,LSG,BOWL,0.0,,AS Rajpoot,10.0,10.0,198.0,-3.831778673858861,2.6575474706922346,ankit singh rajpoot,1,90,0
+K. Gowtham,2022,0.9,LSG,AR,0.0,,K Gowtham,9.0,46.0,168.0,-1.8778044723094192,2.6731906780233614,k gowtham,1,90,0
+Dushmanta Chameera,2022,2.0,LSG,BOWL,1.0,,PVD Chameera,0.0,0.0,0.0,0.0,3.122516701578256,dushmanta chameera,0,90,0
+Shahbaz Nadeem,2022,0.5,LSG,BOWL,0.0,,S Nadeem,11.0,9.0,210.0,-0.9417214739658215,2.498329110806228,shahbaz nadeem,1,90,0
+Manan Vohra,2022,0.2,LSG,BAT,0.0,,M Vohra,4.0,39.0,0.0,-0.29545824759163825,0.5490961729959658,manan vohra,1,90,0
+Evin Lewis,2022,2.0,LSG,BAT,1.0,,E Lewis,8.0,145.0,0.0,0.42288000149729066,2.155994489936373,evin lewis,1,90,0
+Mohsin Khan,2022,0.2,LSG,BOWL,0.0,,Mohsin Khan,0.0,0.0,0.0,0.0,3.122516701578256,mohsin khan,0,90,0
+Mayank Yadav,2022,0.2,LSG,BOWL,0.0,,MP Yadav,0.0,0.0,0.0,0.0,3.122516701578256,mayank yadav,0,90,0
+Ayush Badoni,2022,0.2,LSG,AR,0.0,,A Badoni,0.0,0.0,0.0,0.0,3.122516701578256,ayush badoni,0,90,0
+Kyle Mayers,2022,0.5,LSG,AR,1.0,,KR Mayers,0.0,0.0,0.0,0.0,3.122516701578256,kyle mayers,0,90,0
+Karan Sharma,2022,0.2,LSG,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,karan sharma,0,90,0
+Jason Holder,2022,8.75,LSG,AR,1.0,,JO Holder,15.0,125.0,359.0,2.139407245741834,3.8513048343357967,jason holder,1,90,0
+Deepak Hooda,2022,5.75,LSG,AR,0.0,,DJ Hooda,24.0,257.0,114.0,-0.709059148573544,1.1132523529303273,deepak hooda,1,90,0
+Ishan Kishan,2022,15.25,MI,WK,0.0,,Ishan Kishan,29.0,634.0,0.0,1.6253212929422565,2.048689254776094,ishan kishan,1,90,0
+Dewald Brevis,2022,3.0,MI,BAT,1.0,,D Brevis,0.0,0.0,0.0,0.0,3.122516701578256,dewald brevis,0,90,0
+Anmolpreet Singh,2022,0.2,MI,BAT,0.0,,Anmolpreet Singh,1.0,14.0,0.0,0.02105868515923434,0.24087886026659178,anmolpreet singh,1,90,0
+Basil Thampi,2022,0.3,MI,BOWL,0.0,,Basil Thampi,4.0,1.0,96.0,-1.8808527156224992,2.898550595223332,basil thampi,1,90,0
+Murugan Ashwin,2022,1.6,MI,BOWL,0.0,,M Ashwin,22.0,33.0,459.0,0.26159943966138177,2.3407700557830653,murugan ashwin,1,90,0
+Jaydev Unadkat,2022,1.3,MI,BOWL,0.0,,JD Unadkat,24.0,45.0,494.0,-3.960627057729142,2.2246057246471893,jaydev unadkat,1,90,0
+Mayank Markande,2022,0.65,MI,BOWL,0.0,,M Markande,4.0,5.0,54.0,-0.5632673087853984,1.0823884891420512,mayank markande,1,90,0
+N. Tilak Varma,2022,1.7,MI,AR,0.0,,Tilak Varma,0.0,0.0,0.0,0.0,3.122516701578256,n tilak varma,0,90,0
+Sanjay Yadav,2022,0.5,MI,AR,0.0,,SA Yadav,44.0,876.0,0.0,1.7825962299925135,1.4090454832051442,sanjay yadav,1,90,0
+Jofra Archer,2022,8.0,MI,AR,1.0,,JC Archer,25.0,103.0,592.0,5.125279144881768,2.734879024364722,jofra archer,1,90,0
+Daniel Sams,2022,2.6,MI,AR,1.0,,DR Sams,5.0,8.0,108.0,-1.2012072723779013,2.717087042518462,daniel sams,1,90,0
+Tymal Mills,2022,1.5,MI,BOWL,1.0,,TS Mills,0.0,0.0,0.0,0.0,3.122516701578256,tymal mills,0,90,0
+Tim David,2022,8.25,MI,AR,1.0,,TH David,1.0,3.0,0.0,-0.008479809992099685,0.01163192187545706,tim david,1,90,0
+Ramandeep  Singh,2022,0.2,MI,AR,0.0,,Ramandeep Singh,0.0,0.0,0.0,0.0,3.122516701578256,ramandeep singh,0,90,0
+Aryan Juyal,2022,0.2,MI,WK,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,aryan juyal,0,90,0
+Fabian Allen,2022,0.75,MI,AR,1.0,,,0.0,0.0,0.0,0.0,3.122516701578256,fabian allen,0,90,0
+Riley Meredith,2022,1.0,MI,BOWL,1.0,,RP Meredith,5.0,0.0,102.0,-1.6306050112739559,2.4542229970919642,riley meredith,1,90,0
+Rahul Buddhi,2022,0.2,MI,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,rahul buddhi,0,90,0
+Hrithik Shokeen,2022,0.2,MI,AR,0.0,,HR Shokeen,0.0,0.0,0.0,0.0,3.122516701578256,hrithik shokeen,0,90,0
+Mohd. Arshad Khan,2022,0.2,MI,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,mohd arshad khan,0,90,0
+Arjun  Tendulkar,2022,0.3,MI,AR,0.0,,Arjun Tendulkar,0.0,0.0,0.0,0.0,3.122516701578256,arjun tendulkar,0,90,0
+Shikhar Dhawan,2022,8.25,PBKS,BAT,0.0,,S Dhawan,49.0,1282.0,0.0,2.4467355521907397,1.7945068655370564,shikhar dhawan,1,90,0
+Kagiso Rabada,2022,9.25,PBKS,BOWL,1.0,,K Rabada,44.0,70.0,1012.0,1.9333843368811112,1.7552293565695412,kagiso rabada,1,90,0
+Jonny Bairstow,2022,6.75,PBKS,WK,1.0,,JM Bairstow,28.0,730.0,0.0,3.3083184612091987,2.598576696252494,jonny bairstow,1,90,0
+Rahul Chahar,2022,5.25,PBKS,BOWL,0.0,,RD Chahar,39.0,30.0,858.0,2.070282449536757,1.784477133380118,rahul chahar,1,90,0
+Harpreet  Brar,2022,3.8,PBKS,AR,0.0,,Harpreet Brar,10.0,70.0,192.0,0.6420622724673092,2.9825101303226758,harpreet brar,1,90,0
+Shahrukh Khan,2022,9.0,PBKS,AR,0.0,,M Shahrukh Khan,10.0,114.0,0.0,0.3013052293265057,1.0454443995504483,shahrukh khan,1,90,0
+Jitesh Sharma,2022,0.2,PBKS,WK,0.0,,JM Sharma,0.0,0.0,0.0,0.0,3.122516701578256,jitesh sharma,0,90,0
+Prabhsimran Singh,2022,0.6,PBKS,WK,0.0,,P Simran Singh,5.0,55.0,0.0,-0.7482309288771557,0.7856268754351678,prabhsimran singh,1,90,0
+Ishan Porel,2022,0.25,PBKS,BOWL,0.0,,IC Porel,1.0,0.0,24.0,-0.19317317498905284,0.7374670731861582,ishan porel,1,90,0
+Liam Livingstone,2022,11.5,PBKS,AR,1.0,,LS Livingstone,9.0,89.0,6.0,-0.4604367876217044,0.8159203858208696,liam livingstone,1,90,0
+Odean Smith,2022,6.0,PBKS,AR,1.0,,OF Smith,0.0,0.0,0.0,0.0,3.122516701578256,odean smith,0,90,0
+Sandeep Sharma,2022,0.5,PBKS,BOWL,0.0,,Sandeep Sharma,31.0,25.0,709.0,0.40283858654063576,2.1647761742292286,sandeep sharma,1,90,0
+Raj Angad Bawa,2022,2.0,PBKS,AR,0.0,,RA Bawa,0.0,0.0,0.0,0.0,3.122516701578256,raj angad bawa,0,90,0
+Rishi Dhawan,2022,0.55,PBKS,AR,0.0,,R Dhawan,0.0,0.0,0.0,0.0,3.122516701578256,rishi dhawan,0,90,0
+Nathan Ellis,2022,0.75,PBKS,BOWL,1.0,,NT Ellis,3.0,16.0,66.0,-0.5227426243595253,2.217741648491673,nathan ellis,1,90,0
+Prerak Mankad,2022,0.2,PBKS,AR,0.0,,PN Mankad,0.0,0.0,0.0,0.0,3.122516701578256,prerak mankad,0,90,0
+Atharva Taide,2022,0.2,PBKS,AR,0.0,,Atharva Taide,0.0,0.0,0.0,0.0,3.122516701578256,atharva taide,0,90,0
+Vaibhav Arora,2022,2.0,PBKS,BOWL,0.0,,VG Arora,0.0,0.0,0.0,0.0,3.122516701578256,vaibhav arora,0,90,0
+Bhanuka Rajapaksa,2022,0.5,PBKS,BAT,1.0,,PBB Rajapaksa,0.0,0.0,0.0,0.0,3.122516701578256,bhanuka rajapaksa,0,90,0
+Benny Howell,2022,0.4,PBKS,AR,1.0,,,0.0,0.0,0.0,0.0,3.122516701578256,benny howell,0,90,0
+Writtick Chatterjee,2022,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,writtick chatterjee,0,90,0
+Baltej Dhanda,2022,0.2,PBKS,BOWL,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,baltej dhanda,0,90,0
+Ansh Patel,2022,0.2,PBKS,AR,0.0,,AR Patel,41.0,219.0,888.0,2.506152452319248,1.9388423566205533,ansh patel,1,90,0
+R. Ashwin,2022,5.0,RR,AR,0.0,,R Ashwin,42.0,104.0,904.0,1.0073238428868172,1.7196194198340637,r ashwin,1,90,0
+Trent Boult,2022,8.0,RR,BOWL,1.0,,TA Boult,34.0,9.0,766.0,0.9561888278682981,1.9988746205561894,trent boult,1,90,0
+Shimron Hetmyer,2022,8.5,RR,BAT,1.0,,SO Hetmyer,28.0,342.0,0.0,1.2673917914530768,0.9712345258516714,shimron hetmyer,1,90,0
+Devdutt Padikkal,2022,7.75,RR,BAT,0.0,,D Padikkal,29.0,707.0,0.0,0.16457611204351247,2.344824573689146,devdutt padikkal,1,90,0
+Prasidh Krishna,2022,10.0,RR,BOWL,0.0,,M Prasidh Krishna,27.0,7.0,578.0,-3.6072300256269587,2.152297469811765,prasidh krishna,1,90,0
+Yuzvendra Chahal,2022,6.5,RR,BOWL,0.0,,YS Chahal,44.0,46.0,957.0,3.27704061331021,1.628382077196579,yuzvendra chahal,1,90,0
+Riyan Parag,2022,3.8,RR,AR,0.0,,R Parag,25.0,286.0,133.0,-1.8960582837132178,1.2349365007707669,riyan parag,1,90,0
+K.C Cariappa,2022,0.3,RR,BOWL,0.0,,KC Cariappa,1.0,3.0,12.0,-0.24146976386194383,0.20670984095399136,k c cariappa,1,90,0
+James Neesham,2022,1.5,RR,AR,1.0,,JDS Neesham,8.0,20.0,144.0,-0.808140895568527,2.329562047045029,james neesham,1,90,0
+Nathan Coulter-Nile,2022,2.0,RR,BOWL,1.0,,NM Coulter-Nile,12.0,20.0,276.0,1.3553756387583364,3.255278381876018,nathan coulter-nile,1,90,0
+Navdeep Saini,2022,2.6,RR,BOWL,0.0,,Navdeep Saini,28.0,35.0,586.0,-1.856501484451667,2.072492085225957,navdeep saini,1,90,0
+Kuldeep  Sen,2022,0.2,RR,BOWL,0.0,,KR Sen,0.0,0.0,0.0,0.0,3.122516701578256,kuldeep sen,0,90,0
+Karun Nair,2022,1.4,RR,BAT,0.0,,KK Nair,4.0,20.0,0.0,-0.1384464510320733,0.15633194641836198,karun nair,1,90,0
+Rassie Van Der Dussen,2022,1.0,RR,BAT,1.0,,HE van der Dussen,0.0,0.0,0.0,0.0,3.122516701578256,rassie van der dussen,0,90,0
+Daryl Mitchell,2022,0.75,RR,AR,1.0,,DJ Mitchell,0.0,0.0,0.0,0.0,3.122516701578256,daryl mitchell,0,90,0
+Obed Mccoy,2022,0.75,RR,BOWL,1.0,,OC McCoy,0.0,0.0,0.0,0.0,3.122516701578256,obed mccoy,0,90,0
+Dhruv Jurel,2022,0.2,RR,WK,0.0,,Dhruv Jurel,0.0,0.0,0.0,0.0,3.122516701578256,dhruv jurel,0,90,0
+Tejas Baroka,2022,0.2,RR,BOWL,0.0,,Tejas Baroka,0.0,0.0,0.0,0.0,3.122516701578256,tejas baroka,0,90,0
+Kuldip Yadav,2022,0.2,RR,BOWL,0.0,,K Yadav,1.0,4.0,12.0,-0.02604561941336328,0.21566026989817802,kuldip yadav,1,90,0
+Shubham Garhwal,2022,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,shubham garhwal,0,90,0
+Anunay Singh,2022,0.2,RR,AR,0.0,,A Singh,0.0,0.0,0.0,0.0,3.122516701578256,anunay singh,0,90,0
+Faf Du Plessis,2022,7.0,RCB,BAT,1.0,,F du Plessis,41.0,1098.0,0.0,2.6700051702803678,2.0971781458502385,faf du plessis,1,90,0
+Wanindu Hasaranga,2022,10.75,RCB,AR,1.0,,PWH de Silva,2.0,2.0,36.0,-0.6302139638588096,1.010003072965223,wanindu hasaranga,1,90,0
+Harshal Patel,2022,10.75,RCB,AR,0.0,,HV Patel,22.0,72.0,476.0,0.821174905300922,2.550000581129857,harshal patel,1,90,0
+Dinesh  Karthik,2022,5.5,RCB,WK,0.0,,KD Karthik,41.0,477.0,0.0,-0.15700593075960736,0.7535502546947581,dinesh karthik,1,90,0
+Josh Hazlewood,2022,7.75,RCB,BOWL,1.0,,JR Hazlewood,12.0,0.0,270.0,-0.04510868423986114,3.122516701578256,josh hazlewood,1,90,0
+Shahbaz Ahamad,2022,2.4,RCB,AR,0.0,,Shahbaz Ahmed,10.0,54.0,120.0,0.8193068065486512,1.5006495120301184,shahbaz ahamad,1,90,0
+Anuj Rawat,2022,3.4,RCB,WK,0.0,,Anuj Rawat,1.0,1.0,0.0,-0.001616198015840076,0.0013046851430911163,anuj rawat,1,90,0
+Akash  Deep,2022,0.2,RCB,BOWL,0.0,,Akash Deep,0.0,0.0,0.0,0.0,3.122516701578256,akash deep,0,90,0
+Karn Sharma,2022,0.5,RCB,BOWL,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,karn sharma,0,90,0
+Mahipal Lomror,2022,0.95,RCB,AR,0.0,,MK Lomror,8.0,130.0,42.0,-0.13443289700353367,2.085369206653377,mahipal lomror,1,90,0
+Finn Allen,2022,0.8,RCB,BAT,1.0,,,0.0,0.0,0.0,0.0,3.122516701578256,finn allen,0,90,0
+Sherfane Rutherford,2022,1.0,RCB,AR,1.0,,SE Rutherford,7.0,54.0,41.0,-0.23961948386339982,0.8060230917966346,sherfane rutherford,1,90,0
+Jason Behrendorff,2022,0.75,RCB,BOWL,1.0,,JP Behrendorff,5.0,0.0,114.0,-0.36957197045407264,2.9464279617445928,jason behrendorff,1,90,0
+Siddharth  Kaul,2022,0.75,RCB,BOWL,0.0,,S Kaul,16.0,9.0,366.0,-2.3904459687163713,2.968204519834192,siddharth kaul,1,90,0
+Suyash Prabhudessai,2022,0.3,RCB,AR,0.0,,SS Prabhudessai,0.0,0.0,0.0,0.0,3.122516701578256,suyash prabhudessai,0,90,0
+Luvnith Sisodia,2022,0.2,RCB,WK,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,luvnith sisodia,0,90,0
+Chama Milind,2022,0.25,RCB,BOWL,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,chama milind,0,90,0
+Aneeshwar Gautam,2022,0.2,RCB,AR,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,aneeshwar gautam,0,90,0
+David Willey,2022,2.0,RCB,AR,1.0,,DJ Willey,0.0,0.0,0.0,0.0,3.122516701578256,david willey,0,90,0
+Washington Sundar,2022,8.75,SRH,AR,0.0,,Washington Sundar,24.0,145.0,450.0,1.3968028321422932,2.287303234188622,washington sundar,1,90,0
+Nicholas Pooran,2022,10.75,SRH,WK,1.0,,N Pooran,30.0,391.0,0.0,1.1707207350607045,1.0289324195154164,nicholas pooran,1,90,0
+Bhuvneshwar Kumar,2022,4.2,SRH,BOWL,0.0,,B Kumar,30.0,51.0,691.0,-0.37652182967601366,2.257012677501914,bhuvneshwar kumar,1,90,0
+T. Natarajan,2022,4.0,SRH,BOWL,0.0,,T Natarajan,18.0,5.0,425.0,-0.030028405348945245,2.960914022519201,t natarajan,1,90,0
+Priyam  Garg,2022,0.2,SRH,BAT,0.0,,PK Garg,15.0,185.0,0.0,-1.470499024127343,1.1779565469544273,priyam garg,1,90,0
+Rahul Tripathi,2022,8.5,SRH,BAT,0.0,,RA Tripathi,34.0,582.0,0.0,0.1393949958341399,1.3761209931849006,rahul tripathi,1,90,0
+Abhishek Sharma,2022,6.5,SRH,AR,0.0,,Abhishek Sharma,19.0,140.0,132.0,-0.4141095651704231,1.0032101146505894,abhishek sharma,1,90,0
+Vishnu Vinod,2022,0.5,SRH,WK,0.0,,Vishnu Vinod,0.0,0.0,0.0,0.0,3.122516701578256,vishnu vinod,0,90,0
+Kartik Tyagi,2022,4.0,SRH,BOWL,0.0,,Kartik Tyagi,14.0,10.0,313.0,-2.6983630326007453,2.997155821077961,kartik tyagi,1,90,0
+Shreyas Gopal,2022,0.75,SRH,BOWL,0.0,,S Gopal,31.0,90.0,630.0,-0.03866382474589519,1.967106825306562,shreyas gopal,1,90,0
+Jagadeesha Suchith,2022,0.2,SRH,BOWL,0.0,,J Suchith,3.0,21.0,66.0,-0.47005404939664597,2.3127292153696137,jagadeesha suchith,1,90,0
+Aiden Markram,2022,2.6,SRH,BAT,1.0,,AK Markram,6.0,119.0,24.0,0.210009343840105,2.4863219718391747,aiden markram,1,90,0
+Marco Jansen,2022,4.2,SRH,AR,1.0,,M Jansen,2.0,3.0,36.0,0.12945550556210633,1.0141232621558405,marco jansen,1,90,0
+Romario Shepherd,2022,7.75,SRH,AR,1.0,,R Shepherd,0.0,0.0,0.0,0.0,3.122516701578256,romario shepherd,0,90,0
+Glenn Phillips,2022,1.5,SRH,WK,1.0,,GD Phillips,3.0,33.0,12.0,-0.3053184692783429,0.6350197324045038,glenn phillips,1,90,0
+Fazalhaq Farooqi,2022,0.5,SRH,BOWL,1.0,,Fazalhaq Farooqi,0.0,0.0,0.0,0.0,3.122516701578256,fazalhaq farooqi,0,90,0
+Sean Abbott,2022,2.4,SRH,BOWL,1.0,,SA Abbott,0.0,0.0,0.0,0.0,3.122516701578256,sean abbott,0,90,0
+R Samarth,2022,0.2,SRH,BAT,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,r samarth,0,90,0
+Shashank Singh,2022,0.2,SRH,AR,0.0,,Shashank Singh,0.0,0.0,0.0,0.0,3.122516701578256,shashank singh,0,90,0
+Saurabh Dubey,2022,0.2,SRH,BOWL,0.0,,,0.0,0.0,0.0,0.0,3.122516701578256,saurabh dubey,0,90,0
+Ajinkya Rahane,2023,0.5,CSK,BAT,0.0,,AM Rahane,16.0,243.0,0.0,-2.3185121025855615,1.574416432510875,ajinkya rahane,1,95,0
+Bhagath Varma,2023,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,bhagath varma,0,95,0
+Kyle Jamieson,2023,1.0,CSK,BOWL,1.0,,KA Jamieson,9.0,55.0,168.0,-1.3879500416619615,2.4191778553657577,kyle jamieson,1,95,0
+Ajay Mandal,2023,0.2,CSK,AR,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,ajay mandal,0,95,0
+Nishant Sindhu,2023,0.6,CSK,AR,0.0,,N Sindhu,0.0,0.0,0.0,0.0,2.831541683830056,nishant sindhu,0,95,0
+Shaik Rasheed,2023,0.2,CSK,BAT,0.0,,SK Rasheed,0.0,0.0,0.0,0.0,2.831541683830056,shaik rasheed,0,95,0
+Ben Stokes,2023,16.25,CSK,AR,1.0,,BA Stokes,9.0,203.0,96.0,0.11436755773707397,3.826341252384931,ben stokes,1,95,0
+Phil Salt,2023,2.0,DC,WK,1.0,,PD Salt,0.0,0.0,0.0,0.0,2.831541683830056,phil salt,0,95,0
+Ishant Sharma,2023,0.5,DC,BOWL,0.0,,I Sharma,4.0,0.0,90.0,-0.6841840131366,2.14128980471869,ishant sharma,1,95,0
+Rilee Rossouw,2023,4.6,DC,BAT,1.0,,RR Rossouw,0.0,0.0,0.0,0.0,2.831541683830056,rilee rossouw,0,95,0
+Manish Pandey,2023,2.4,DC,BAT,0.0,,MK Pandey,29.0,649.0,0.0,-0.12778474781668253,2.1230026646655835,manish pandey,1,95,0
+Mukesh Kumar,2023,5.5,DC,BOWL,0.0,,Mukesh Kumar,0.0,0.0,0.0,0.0,2.831541683830056,mukesh kumar,0,95,0
+Shivam Mavi,2023,6.0,GT,BOWL,0.0,,Shivam Mavi,23.0,41.0,481.0,-0.3894190570336299,2.152809958774392,shivam mavi,1,95,0
+K.S. Bharat,2023,1.2,GT,WK,0.0,,KS Bharat,8.0,163.0,0.0,0.039024361035617114,2.547690612450281,k s bharat,1,95,0
+Urvil Patel,2023,0.2,GT,WK,0.0,,Urvil Patel,0.0,0.0,0.0,0.0,2.831541683830056,urvil patel,0,95,0
+Mohit Sharma,2023,0.5,GT,BOWL,0.0,,MM Sharma,1.0,0.0,24.0,-0.2430241344434133,0.5726915924581548,mohit sharma,1,95,0
+Joshua Little,2023,4.4,GT,BOWL,1.0,,J Little,0.0,0.0,0.0,0.0,2.831541683830056,joshua little,0,95,0
+Kane Williamson,2023,2.0,GT,BAT,1.0,,KS Williamson,33.0,703.0,12.0,-1.271602198162168,1.8556800622385943,kane williamson,1,95,0
+Odean Smith,2023,0.5,GT,AR,1.0,,OF Smith,6.0,44.0,90.0,-1.358790551060554,1.6946990574094711,odean smith,1,95,0
+Kulwant Khejroliya,2023,0.2,KKR,BOWL,0.0,,K Khejroliya,0.0,0.0,0.0,0.0,2.831541683830056,kulwant khejroliya,0,95,0
+Shakib Al Hasan,2023,1.5,KKR,AR,1.0,,Shakib Al Hasan,8.0,48.0,156.0,-0.29222558260898623,2.510685890309821,shakib al hasan,1,95,0
+Vaibhav Arora,2023,0.6,KKR,BOWL,0.0,,VG Arora,5.0,13.0,107.0,-0.9926280621706045,2.2612940604135847,vaibhav arora,1,95,0
+N. Jagadeesan,2023,0.9,KKR,WK,0.0,,N Jagadeesan,4.0,66.0,0.0,-0.3076654086470245,1.3735938752356192,n jagadeesan,1,95,0
+David Wiese,2023,1.0,KKR,AR,1.0,,D Wiese,0.0,0.0,0.0,0.0,2.831541683830056,david wiese,0,95,0
+Mandeep Singh,2023,0.5,KKR,BAT,0.0,,Mandeep Singh,11.0,146.0,0.0,-1.1353201969842766,1.31944576179625,mandeep singh,1,95,0
+Litton Das,2023,0.5,KKR,WK,1.0,,,0.0,0.0,0.0,0.0,2.831541683830056,litton das,0,95,0
+Suyash Sharma,2023,0.2,KKR,BOWL,0.0,,Suyash Sharma,0.0,0.0,0.0,0.0,2.831541683830056,suyash sharma,0,95,0
+Amit Mishra,2023,0.5,LSG,BOWL,0.0,,A Mishra,7.0,0.0,144.0,0.8386725497985337,2.331705081798474,amit mishra,1,95,0
+Nicholas Pooran,2023,16.0,LSG,WK,1.0,,N Pooran,37.0,496.0,0.0,1.2809948357943064,0.9616803843771625,nicholas pooran,1,95,0
+Romario Shepherd,2023,0.5,LSG,AR,1.0,,R Shepherd,3.0,41.0,54.0,-0.36468051708465804,1.9564502566435396,romario shepherd,1,95,0
+Daniel Sams,2023,0.75,LSG,AR,1.0,,DR Sams,16.0,44.0,360.0,-1.6213110903268397,2.7321320792474335,daniel sams,1,95,0
+Swapnil Singh,2023,0.2,LSG,AR,0.0,,Swapnil Singh,0.0,0.0,0.0,0.0,2.831541683830056,swapnil singh,0,95,0
+Yudhvir Charak,2023,0.2,LSG,AR,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,yudhvir charak,0,95,0
+Prerak Mankad,2023,0.2,LSG,AR,0.0,,PN Mankad,1.0,1.0,0.0,0.00768033747972106,0.001241718921204508,prerak mankad,1,95,0
+Yash Thakur,2023,0.45,LSG,BOWL,0.0,,Yash Thakur,0.0,0.0,0.0,0.0,2.831541683830056,yash thakur,0,95,0
+Naveen Ul Haq,2023,0.5,LSG,BOWL,1.0,,Naveen-ul-Haq,0.0,0.0,0.0,0.0,2.831541683830056,naveen ul haq,0,95,0
+Jaydev Unadkat,2023,0.5,LSG,BOWL,0.0,,JD Unadkat,18.0,79.0,390.0,-2.07980981752162,2.631850507487091,jaydev unadkat,1,95,0
+Jhye Richardson,2023,1.5,MI,BOWL,1.0,,JA Richardson,3.0,24.0,66.0,-1.2385595151894917,1.9695807968013395,jhye richardson,1,95,0
+Nehal Wadhera,2023,0.2,MI,AR,0.0,,N Wadhera,0.0,0.0,0.0,0.0,2.831541683830056,nehal wadhera,0,95,0
+Raghav Goyal,2023,0.2,MI,BOWL,0.0,,R Goyal,0.0,0.0,0.0,0.0,2.831541683830056,raghav goyal,0,95,0
+Cameron Green,2023,17.5,MI,AR,1.0,,CJ Green,1.0,0.0,17.0,-0.05551953571148937,0.2944636716361751,cameron green,1,95,0
+Vishnu Vinod,2023,0.2,MI,WK,0.0,,Vishnu Vinod,0.0,0.0,0.0,0.0,2.831541683830056,vishnu vinod,0,95,0
+Duan Jansen,2023,0.2,MI,AR,1.0,,D Jansen,0.0,0.0,0.0,0.0,2.831541683830056,duan jansen,0,95,0
+Piyush Chawla,2023,0.5,MI,BOWL,0.0,,PP Chawla,8.0,2.0,150.0,-0.7813493772623296,2.0614091745773053,piyush chawla,1,95,0
+Shams Mulani,2023,0.2,MI,AR,0.0,,SZ Mulani,0.0,0.0,0.0,0.0,2.831541683830056,shams mulani,0,95,0
+Harpreet Bhatia,2023,0.4,PBKS,BAT,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,harpreet bhatia,0,95,0
+Shivam Singh,2023,0.2,PBKS,AR,0.0,,Shivam Singh,0.0,0.0,0.0,0.0,2.831541683830056,shivam singh,0,95,0
+Vidwath Kaverappa,2023,0.2,PBKS,BOWL,0.0,,V Kaverappa,0.0,0.0,0.0,0.0,2.831541683830056,vidwath kaverappa,0,95,0
+Mohit Rathee,2023,0.2,PBKS,AR,0.0,,Mohit Rathee,0.0,0.0,0.0,0.0,2.831541683830056,mohit rathee,0,95,0
+Sam Curran,2023,18.5,PBKS,AR,1.0,,SM Curran,23.0,170.0,450.0,-1.3305897517385383,2.414817746525816,sam curran,1,95,0
+Sikandar Raza,2023,0.5,PBKS,AR,1.0,,Sikandar Raza,0.0,0.0,0.0,0.0,2.831541683830056,sikandar raza,0,95,0
+Jason Holder,2023,5.75,RR,AR,1.0,,JO Holder,27.0,169.0,608.0,0.2784460568588275,2.527436689797609,jason holder,1,95,0
+Adam Zampa,2023,1.5,RR,BOWL,1.0,,A Zampa,3.0,0.0,66.0,-0.19615849182933756,1.6808962035267232,adam zampa,1,95,0
+Abdul P A,2023,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,abdul p a,0,95,0
+Akash Vashisht,2023,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,akash vashisht,0,95,0
+Donovan Ferreira,2023,0.5,RR,WK,1.0,,D Ferreira,0.0,0.0,0.0,0.0,2.831541683830056,donovan ferreira,0,95,0
+Kunal Rathore,2023,0.2,RR,WK,0.0,,KS Rathore,0.0,0.0,0.0,0.0,2.831541683830056,kunal rathore,0,95,0
+Joe Root,2023,1.0,RR,BAT,1.0,,JE Root,0.0,0.0,0.0,0.0,2.831541683830056,joe root,0,95,0
+Murugan Ashwin,2023,0.2,RR,BOWL,0.0,,M Ashwin,20.0,42.0,429.0,0.5128216507874731,2.362482420840533,murugan ashwin,1,95,0
+K.M. Asif,2023,0.3,RR,BOWL,0.0,,KM Asif,1.0,0.0,13.0,0.02309193827247961,0.17466949677238094,k m asif,1,95,0
+Sonu Yadav,2023,0.2,RCB,AR,0.0,,SA Yadav,37.0,760.0,0.0,2.758034425994715,1.6535720457281227,sonu yadav,1,95,0
+Himanshu Sharma,2023,0.2,RCB,BOWL,0.0,,H Sharma,0.0,0.0,0.0,0.0,2.831541683830056,himanshu sharma,0,95,0
+Avinash Singh,2023,0.6,RCB,BOWL,0.0,,A Singh,0.0,0.0,0.0,0.0,2.831541683830056,avinash singh,0,95,0
+Manoj Bhandage,2023,0.2,RCB,AR,0.0,,MS Bhandage,0.0,0.0,0.0,0.0,2.831541683830056,manoj bhandage,0,95,0
+Will Jacks,2023,3.2,RCB,BAT,1.0,,WG Jacks,0.0,0.0,0.0,0.0,2.831541683830056,will jacks,0,95,0
+Reece Topley,2023,1.9,RCB,BOWL,1.0,,RJW Topley,0.0,0.0,0.0,0.0,2.831541683830056,reece topley,0,95,0
+Rajan Kumar,2023,0.7,RCB,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,rajan kumar,0,95,0
+Sanvir Singh,2023,0.2,SRH,AR,0.0,,Sanvir Singh,0.0,0.0,0.0,0.0,2.831541683830056,sanvir singh,0,95,0
+Harry Brook,2023,13.25,SRH,BAT,1.0,,HC Brook,0.0,0.0,0.0,0.0,2.831541683830056,harry brook,0,95,0
+Heinrich Klaasen,2023,5.25,SRH,WK,1.0,,H Klaasen,0.0,0.0,0.0,0.0,2.831541683830056,heinrich klaasen,0,95,0
+Akeal Hosein,2023,1.0,SRH,BOWL,1.0,,AJ Hosein,0.0,0.0,0.0,0.0,2.831541683830056,akeal hosein,0,95,0
+Mayank Markande,2023,0.5,SRH,BOWL,0.0,,M Markande,3.0,0.0,60.0,-0.2844242162452482,1.4147887570496562,mayank markande,1,95,0
+Adil Rashid,2023,2.0,SRH,BOWL,1.0,,AU Rashid,1.0,0.0,18.0,-0.23235091088575016,0.3289602974631176,adil rashid,1,95,0
+Anmolpreet Singh,2023,0.2,SRH,BAT,0.0,,Anmolpreet Singh,3.0,27.0,0.0,-0.18352946018707664,0.3610412781993028,anmolpreet singh,1,95,0
+Vivrant Sharma,2023,2.6,SRH,AR,0.0,,Vivrant Sharma,0.0,0.0,0.0,0.0,2.831541683830056,vivrant sharma,0,95,0
+Samarth Vyas,2023,0.2,SRH,AR,0.0,,,0.0,0.0,0.0,0.0,2.831541683830056,samarth vyas,0,95,0
+Upendra Singh Yadav,2023,0.25,SRH,WK,0.0,,UT Yadav,14.0,42.0,330.0,1.149573081829222,3.0161595209120717,upendra singh yadav,1,95,0
+Nitish Kumar Reddy,2023,0.2,SRH,WK,0.0,,Nithish Kumar Reddy,0.0,0.0,0.0,0.0,2.831541683830056,nitish kumar reddy,0,95,0
+Mayank Agarwal,2023,8.25,SRH,BAT,0.0,,MA Agarwal,35.0,745.0,0.0,2.2469430023408825,1.787788229079612,mayank agarwal,1,95,0
+Mayank Dagar,2023,1.8,SRH,AR,0.0,,Mayank Dagar,0.0,0.0,0.0,0.0,2.831541683830056,mayank dagar,0,95,0
+Avanish Rao Aravelly,2024,0.2,CSK,WK,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,avanish rao aravelly,0,100,0
+Mustafizur Rahman,2024,2.0,CSK,BOWL,1.0,,Mustafizur Rahman,24.0,20.0,545.0,-0.7976886723665595,2.231521972777679,mustafizur rahman,1,100,0
+Daryl Mitchell,2024,14.0,CSK,AR,1.0,,DJ Mitchell,2.0,44.0,12.0,-0.811341001923477,1.5479808709814915,daryl mitchell,1,100,0
+Sameer Rizvi,2024,8.4,CSK,BAT,0.0,,Sameer Rizvi,0.0,0.0,0.0,0.0,2.7151307930879067,sameer rizvi,0,100,0
+Rachin Ravindra,2024,1.8,CSK,AR,1.0,,R Ravindra,0.0,0.0,0.0,0.0,2.7151307930879067,rachin ravindra,0,100,0
+Shardul Thakur,2024,4.0,CSK,AR,0.0,,SN Thakur,40.0,162.0,775.0,-2.309151116050235,1.5871863090739682,shardul thakur,1,100,0
+Ricky Bhui,2024,0.2,DC,WK,0.0,,RK Bhui,0.0,0.0,0.0,0.0,2.7151307930879067,ricky bhui,0,100,0
+Sumit Kumar,2024,1.0,DC,AR,0.0,,Sumit Kumar,0.0,0.0,0.0,0.0,2.7151307930879067,sumit kumar,0,100,0
+Swastik Chhikara,2024,0.2,DC,BAT,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,swastik chhikara,0,100,0
+Jhye Richardson,2024,5.0,DC,BOWL,1.0,,JA Richardson,3.0,24.0,66.0,-1.0592872521248866,1.7684884127365854,jhye richardson,1,100,0
+Shai Hope,2024,0.75,DC,WK,1.0,,SD Hope,0.0,0.0,0.0,0.0,2.7151307930879067,shai hope,0,100,0
+Rasikh Dar,2024,0.2,DC,BOWL,0.0,,Rasikh Salam,2.0,6.0,24.0,0.01639402418888679,0.33780293615231216,rasikh dar,1,100,0
+Kumar Kushagra,2024,7.2,DC,WK,0.0,,Kumar Kushagra,0.0,0.0,0.0,0.0,2.7151307930879067,kumar kushagra,0,100,0
+Tristan Stubbs,2024,0.5,DC,WK,1.0,,T Stubbs,4.0,35.0,12.0,-0.4704474621492741,0.5323497529134359,tristan stubbs,1,100,0
+Harry Brook,2024,4.0,DC,BAT,1.0,,HC Brook,11.0,154.0,0.0,-0.9078207826832311,1.5912495597151017,harry brook,1,100,0
+Kartik Tyagi,2024,0.6,GT,BOWL,0.0,,Kartik Tyagi,9.0,10.0,169.0,-2.043943932503107,1.8953267363348927,kartik tyagi,1,100,0
+Spencer Johnson,2024,10.0,GT,BOWL,1.0,,SH Johnson,0.0,0.0,0.0,0.0,2.7151307930879067,spencer johnson,0,100,0
+Manav Suthar,2024,0.2,GT,BOWL,0.0,,MJ Suthar,0.0,0.0,0.0,0.0,2.7151307930879067,manav suthar,0,100,0
+Robin Minz,2024,3.6,GT,WK,0.0,,R Minz,0.0,0.0,0.0,0.0,2.7151307930879067,robin minz,0,100,0
+Sushant Mishra,2024,2.2,GT,BOWL,0.0,,SS Mishra,0.0,0.0,0.0,0.0,2.7151307930879067,sushant mishra,0,100,0
+Azmatullah Omarzai,2024,0.5,GT,AR,1.0,,Azmatullah Omarzai,0.0,0.0,0.0,0.0,2.7151307930879067,azmatullah omarzai,0,100,0
+Shahrukh Khan,2024,7.4,GT,AR,0.0,,M Shahrukh Khan,30.0,316.0,0.0,-0.2328080913825657,0.8306404296923021,shahrukh khan,1,100,0
+Umesh Yadav,2024,5.8,GT,BOWL,0.0,,UT Yadav,20.0,58.0,402.0,0.5542904471808032,2.0997836491945363,umesh yadav,1,100,0
+Mujeeb Rahman,2024,2.0,KKR,BOWL,1.0,,Mujeeb Ur Rahman,1.0,1.0,24.0,0.14854739306458,0.47886923913203705,mujeeb rahman,1,100,0
+Manish Pandey,2024,0.5,KKR,BAT,0.0,,MK Pandey,23.0,462.0,0.0,-1.553925627327442,2.233812098451388,manish pandey,1,100,0
+Gus Atkinson,2024,1.0,KKR,BOWL,1.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,gus atkinson,0,100,0
+Angkrish Raghuvanshi,2024,0.2,KKR,BAT,0.0,,A Raghuvanshi,0.0,0.0,0.0,0.0,2.7151307930879067,angkrish raghuvanshi,0,100,0
+Mitchell  Starc,2024,24.75,KKR,BOWL,1.0,,MA Starc,0.0,0.0,0.0,0.0,2.7151307930879067,mitchell starc,0,100,0
+Sherfane Rutherford,2024,1.5,KKR,BAT,1.0,,SE Rutherford,2.0,50.0,0.0,-1.069707728501021,1.8522289241742433,sherfane rutherford,1,100,0
+Ramandeep  Singh,2024,0.2,KKR,AR,0.0,,Ramandeep Singh,5.0,40.0,36.0,0.14147781753031657,0.741957780692087,ramandeep singh,1,100,0
+K.S. Bharat,2024,0.5,KKR,WK,0.0,,KS Bharat,8.0,163.0,0.0,0.03772655367932022,2.816943624681743,k s bharat,1,100,0
+Chetan Sakariya,2024,0.5,KKR,BOWL,0.0,,C Sakariya,19.0,31.0,426.0,-0.8569084476822979,2.400375410869288,chetan sakariya,1,100,0
+Sakib Hussain,2024,0.2,KKR,BOWL,0.0,,Sakib Hussain,0.0,0.0,0.0,0.0,2.7151307930879067,sakib hussain,0,100,0
+Ashton Turner,2024,1.0,LSG,BAT,1.0,,AJ Turner,0.0,0.0,0.0,0.0,2.7151307930879067,ashton turner,0,100,0
+David Willey,2024,2.0,LSG,AR,1.0,,DJ Willey,8.0,62.0,156.0,0.4098380319321008,2.518433393582332,david willey,1,100,0
+M. Siddharth,2024,2.4,LSG,BOWL,0.0,,M Siddharth,0.0,0.0,0.0,0.0,2.7151307930879067,m siddharth,0,100,0
+Shivam  Mavi,2024,6.4,LSG,BOWL,0.0,,Shivam Mavi,15.0,27.0,325.0,-0.593633399008076,2.4103316717190646,shivam mavi,1,100,0
+Arshin Kulkarni,2024,0.2,LSG,AR,0.0,,AA Kulkarni,0.0,0.0,0.0,0.0,2.7151307930879067,arshin kulkarni,0,100,0
+Mohd. Arshad Khan,2024,0.2,LSG,AR,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,mohd arshad khan,0,100,0
+Dilshan Madushanka,2024,4.6,MI,BOWL,1.0,,D Madushanka,0.0,0.0,0.0,0.0,2.7151307930879067,dilshan madushanka,0,100,0
+Shreyas Gopal,2024,0.2,MI,BOWL,0.0,,S Gopal,4.0,12.0,60.0,-0.9511969598133261,0.9504971855342248,shreyas gopal,1,100,0
+Shivalik Sharma,2024,0.2,MI,AR,0.0,,Shivam Sharma,0.0,0.0,0.0,0.0,2.7151307930879067,shivalik sharma,0,100,0
+Anshul Kamboj,2024,0.2,MI,AR,0.0,,A Kamboj,0.0,0.0,0.0,0.0,2.7151307930879067,anshul kamboj,0,100,0
+Mohammad Nabi,2024,1.5,MI,AR,1.0,,Mohammad Nabi,3.0,20.0,48.0,-0.4253435221618956,1.0294700630784923,mohammad nabi,1,100,0
+Naman Dhir,2024,0.2,MI,AR,0.0,,Naman Dhir,0.0,0.0,0.0,0.0,2.7151307930879067,naman dhir,0,100,0
+Nuwan Thushara,2024,4.8,MI,BOWL,1.0,,N Thushara,0.0,0.0,0.0,0.0,2.7151307930879067,nuwan thushara,0,100,0
+Gerald Coetzee,2024,5.0,MI,AR,1.0,,G Coetzee,0.0,0.0,0.0,0.0,2.7151307930879067,gerald coetzee,0,100,0
+Chris Woakes,2024,4.2,PBKS,AR,1.0,,CR Woakes,3.0,11.0,66.0,0.49984823411441626,1.5119442833109455,chris woakes,1,100,0
+Tanay Thyagarajann,2024,0.2,PBKS,AR,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,tanay thyagarajann,0,100,0
+Vishwanath Pratap Singh,2024,0.2,PBKS,AR,0.0,,V Pratap Singh,0.0,0.0,0.0,0.0,2.7151307930879067,vishwanath pratap singh,0,100,0
+Ashutosh Sharma,2024,0.2,PBKS,AR,0.0,,Ashutosh Sharma,0.0,0.0,0.0,0.0,2.7151307930879067,ashutosh sharma,0,100,0
+Shashank  Singh,2024,0.2,PBKS,BAT,0.0,,Shashank Singh,6.0,47.0,12.0,0.02531640542250806,0.5355375138382538,shashank singh,1,100,0
+Rilee Rossouw,2024,8.0,PBKS,BAT,1.0,,RR Rossouw,9.0,141.0,0.0,0.4922104409064212,1.8839278924424905,rilee rossouw,1,100,0
+Prince Choudhary,2024,0.2,PBKS,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,prince choudhary,0,100,0
+Harshal Patel,2024,11.75,PBKS,AR,0.0,,HV Patel,43.0,91.0,941.0,1.1019231855395872,1.6372916323483364,harshal patel,1,100,0
+Shubham Dubey,2024,5.8,RR,BAT,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,shubham dubey,0,100,0
+Rovman Powell,2024,7.4,RR,BAT,1.0,,R Powell,15.0,176.0,18.0,0.09606100596933823,1.198096968240007,rovman powell,1,100,0
+Abid Mushtaq,2024,0.2,RR,AR,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,abid mushtaq,0,100,0
+Nandre Burger,2024,0.5,RR,BOWL,1.0,,N Burger,0.0,0.0,0.0,0.0,2.7151307930879067,nandre burger,0,100,0
+Tom Kohler-Cadmore,2024,0.4,RR,WK,1.0,,T Kohler-Cadmore,0.0,0.0,0.0,0.0,2.7151307930879067,tom kohler-cadmore,0,100,0
+Lockie Ferguson,2024,2.0,RCB,BOWL,1.0,,LH Ferguson,24.0,15.0,512.0,-0.7834339833738353,2.041873827145789,lockie ferguson,1,100,0
+Tom Curran,2024,1.5,RCB,AR,1.0,,TK Curran,3.0,17.0,68.0,-0.21293780171701832,1.6902629178484463,tom curran,1,100,0
+Saurav Chuahan,2024,0.2,RCB,BAT,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,saurav chuahan,0,100,0
+Alzarri Joseph,2024,11.5,RCB,BOWL,1.0,,AS Joseph,16.0,19.0,324.0,-0.9090736035177605,2.1334016838760363,alzarri joseph,1,100,0
+Swapnil Singh,2024,0.2,RCB,AR,0.0,,Swapnil Singh,2.0,4.0,12.0,-0.004984515721890053,0.09346708263487914,swapnil singh,1,100,0
+Yash  Dayal,2024,5.0,RCB,BOWL,0.0,,Yash Dayal,14.0,1.0,276.0,-1.8521754750070614,2.0641183292604253,yash dayal,1,100,0
+Jhathavedh Subramanyan,2024,0.2,SRH,BOWL,0.0,,,0.0,0.0,0.0,0.0,2.7151307930879067,jhathavedh subramanyan,0,100,0
+Akash Singh,2024,0.2,SRH,BOWL,0.0,,Akash Singh,7.0,0.0,138.0,-1.003585837829746,1.922420733591065,akash singh,1,100,0
+Jaydev Unadkat,2024,1.6,SRH,BOWL,0.0,,JD Unadkat,14.0,73.0,300.0,-1.390729016174041,2.6603084991527646,jaydev unadkat,1,100,0
+Wanindu Hasaranga,2024,1.5,SRH,AR,1.0,,PWH de Silva,26.0,73.0,552.0,1.1387079952008108,2.066242962825382,wanindu hasaranga,1,100,0
+Pat Cummins,2024,20.5,SRH,AR,1.0,,PJ Cummins,12.0,80.0,280.0,-0.9211759387868375,3.182245673178611,pat cummins,1,100,0
+Travis Head,2024,6.8,SRH,BAT,1.0,,TM Head,0.0,0.0,0.0,0.0,2.7151307930879067,travis head,0,100,0

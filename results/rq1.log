@@ -1,0 +1,49 @@
+single lot: {'overpay': 0.4111477003012544, 'winner_profit': -0.4111477003012544, 'belief_bias': 0.7213379688258379} {'overpay': -0.04738983660327551, 'winner_profit': 0.04738983660327551, 'belief_bias': 0.7213379688258379}
+naive 0.5 0.0 {'overpay': -4.328, 'belief_bias': -0.0, 'paid_over_value': 0.556, 'capped_share': 0.569, 'n_sold': 58.98}
+naive 0.5 0.15 {'overpay': -3.959, 'belief_bias': 0.492, 'paid_over_value': 0.577, 'capped_share': 0.597, 'n_sold': 59.78}
+naive 0.5 0.3 {'overpay': -3.698, 'belief_bias': 0.96, 'paid_over_value': 0.593, 'capped_share': 0.612, 'n_sold': 60.11}
+naive 0.5 0.5 {'overpay': -3.337, 'belief_bias': 1.52, 'paid_over_value': 0.62, 'capped_share': 0.642, 'n_sold': 60.38}
+naive 0.5 0.75 {'overpay': -2.933, 'belief_bias': 1.817, 'paid_over_value': 0.654, 'capped_share': 0.663, 'n_sold': 60.03}
+naive 1.0 0.0 {'overpay': -2.685, 'belief_bias': -0.0, 'paid_over_value': 0.74, 'capped_share': 0.381, 'n_sold': 87.17}
+naive 1.0 0.15 {'overpay': -2.062, 'belief_bias': 1.002, 'paid_over_value': 0.793, 'capped_share': 0.415, 'n_sold': 86.26}
+naive 1.0 0.3 {'overpay': -1.703, 'belief_bias': 1.887, 'paid_over_value': 0.826, 'capped_share': 0.439, 'n_sold': 86.04}
+naive 1.0 0.5 {'overpay': -1.254, 'belief_bias': 2.824, 'paid_over_value': 0.875, 'capped_share': 0.472, 'n_sold': 84.67}
+naive 1.0 0.75 {'overpay': -1.008, 'belief_bias': 3.545, 'paid_over_value': 0.904, 'capped_share': 0.481, 'n_sold': 82.96}
+naive 3.0 0.0 {'overpay': -0.12, 'belief_bias': -0.0, 'paid_over_value': 0.982, 'capped_share': 0.012, 'n_sold': 197.12}
+naive 3.0 0.15 {'overpay': 0.594, 'belief_bias': 1.301, 'paid_over_value': 1.1, 'capped_share': 0.02, 'n_sold': 193.39}
+naive 3.0 0.3 {'overpay': 1.132, 'belief_bias': 2.497, 'paid_over_value': 1.192, 'capped_share': 0.028, 'n_sold': 190.38}
+naive 3.0 0.5 {'overpay': 1.576, 'belief_bias': 3.719, 'paid_over_value': 1.271, 'capped_share': 0.04, 'n_sold': 187.39}
+naive 3.0 0.75 {'overpay': 1.825, 'belief_bias': 4.437, 'paid_over_value': 1.318, 'capped_share': 0.046, 'n_sold': 184.99}
+naive 20.0 0.0 {'overpay': -0.062, 'belief_bias': -0.0, 'paid_over_value': 0.99, 'capped_share': 0.0, 'n_sold': 204.0}
+naive 20.0 0.15 {'overpay': 0.7, 'belief_bias': 1.317, 'paid_over_value': 1.119, 'capped_share': 0.0, 'n_sold': 204.0}
+naive 20.0 0.3 {'overpay': 1.286, 'belief_bias': 2.529, 'paid_over_value': 1.225, 'capped_share': 0.0, 'n_sold': 204.0}
+naive 20.0 0.5 {'overpay': 1.783, 'belief_bias': 3.719, 'paid_over_value': 1.322, 'capped_share': 0.0, 'n_sold': 204.0}
+naive 20.0 0.75 {'overpay': 2.029, 'belief_bias': 4.408, 'paid_over_value': 1.376, 'capped_share': 0.0, 'n_sold': 204.0}
+equilibrium 0.5 0.0 {'overpay': -4.328, 'belief_bias': -0.0, 'paid_over_value': 0.556, 'capped_share': 0.569, 'n_sold': 58.98}
+equilibrium 0.5 0.15 {'overpay': -4.438, 'belief_bias': 0.587, 'paid_over_value': 0.54, 'capped_share': 0.577, 'n_sold': 61.33}
+equilibrium 0.5 0.3 {'overpay': -4.515, 'belief_bias': 1.306, 'paid_over_value': 0.526, 'capped_share': 0.576, 'n_sold': 63.69}
+equilibrium 0.5 0.5 {'overpay': -4.567, 'belief_bias': 2.362, 'paid_over_value': 0.51, 'capped_share': 0.58, 'n_sold': 67.14}
+equilibrium 0.5 0.75 {'overpay': -4.403, 'belief_bias': 3.246, 'paid_over_value': 0.505, 'capped_share': 0.594, 'n_sold': 71.02}
+equilibrium 1.0 0.0 {'overpay': -2.685, 'belief_bias': -0.0, 'paid_over_value': 0.74, 'capped_share': 0.381, 'n_sold': 87.17}
+equilibrium 1.0 0.15 {'overpay': -2.858, 'belief_bias': 1.159, 'paid_over_value': 0.714, 'capped_share': 0.382, 'n_sold': 92.61}
+equilibrium 1.0 0.3 {'overpay': -2.95, 'belief_bias': 2.332, 'paid_over_value': 0.694, 'capped_share': 0.385, 'n_sold': 98.62}
+equilibrium 1.0 0.5 {'overpay': -3.183, 'belief_bias': 3.678, 'paid_over_value': 0.665, 'capped_share': 0.378, 'n_sold': 104.99}
+equilibrium 1.0 0.75 {'overpay': -3.188, 'belief_bias': 4.546, 'paid_over_value': 0.65, 'capped_share': 0.377, 'n_sold': 111.62}
+equilibrium 3.0 0.0 {'overpay': -0.12, 'belief_bias': -0.0, 'paid_over_value': 0.982, 'capped_share': 0.012, 'n_sold': 197.12}
+equilibrium 3.0 0.15 {'overpay': -0.255, 'belief_bias': 1.333, 'paid_over_value': 0.961, 'capped_share': 0.012, 'n_sold': 197.24}
+equilibrium 3.0 0.3 {'overpay': -0.381, 'belief_bias': 2.602, 'paid_over_value': 0.94, 'capped_share': 0.013, 'n_sold': 197.74}
+equilibrium 3.0 0.5 {'overpay': -0.515, 'belief_bias': 3.865, 'paid_over_value': 0.917, 'capped_share': 0.012, 'n_sold': 198.85}
+equilibrium 3.0 0.75 {'overpay': -0.63, 'belief_bias': 4.589, 'paid_over_value': 0.898, 'capped_share': 0.013, 'n_sold': 199.62}
+equilibrium 20.0 0.0 {'overpay': -0.062, 'belief_bias': -0.0, 'paid_over_value': 0.99, 'capped_share': 0.0, 'n_sold': 204.0}
+equilibrium 20.0 0.15 {'overpay': -0.156, 'belief_bias': 1.345, 'paid_over_value': 0.974, 'capped_share': 0.0, 'n_sold': 204.0}
+equilibrium 20.0 0.3 {'overpay': -0.268, 'belief_bias': 2.618, 'paid_over_value': 0.956, 'capped_share': 0.0, 'n_sold': 204.0}
+equilibrium 20.0 0.5 {'overpay': -0.401, 'belief_bias': 3.883, 'paid_over_value': 0.933, 'capped_share': 0.0, 'n_sold': 204.0}
+equilibrium 20.0 0.75 {'overpay': -0.52, 'belief_bias': 4.602, 'paid_over_value': 0.913, 'capped_share': 0.0, 'n_sold': 204.0}
+naive 4 {'overpay': -0.124, 'belief_bias': 2.151, 'paid_over_value': 0.989, 'capped_share': 0.0, 'n_sold': 80.0}
+naive 6 {'overpay': 0.683, 'belief_bias': 2.418, 'paid_over_value': 1.1, 'capped_share': 0.0, 'n_sold': 120.0}
+naive 8 {'overpay': 1.045, 'belief_bias': 2.571, 'paid_over_value': 1.163, 'capped_share': 0.0, 'n_sold': 162.0}
+naive 10 {'overpay': 1.286, 'belief_bias': 2.529, 'paid_over_value': 1.225, 'capped_share': 0.0, 'n_sold': 204.0}
+equilibrium 4 {'overpay': -0.955, 'belief_bias': 2.196, 'paid_over_value': 0.888, 'capped_share': 0.0, 'n_sold': 80.0}
+equilibrium 6 {'overpay': -0.543, 'belief_bias': 2.473, 'paid_over_value': 0.927, 'capped_share': 0.0, 'n_sold': 120.0}
+equilibrium 8 {'overpay': -0.356, 'belief_bias': 2.669, 'paid_over_value': 0.949, 'capped_share': 0.0, 'n_sold': 162.0}
+equilibrium 10 {'overpay': -0.268, 'belief_bias': 2.618, 'paid_over_value': 0.956, 'capped_share': 0.0, 'n_sold': 204.0}
